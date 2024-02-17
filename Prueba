@@ -19,6 +19,9 @@ http://220492356568321429.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321429.ts
 http://220492356568321288.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321288.ts
 #EXTINF:1 tvg-id="La 7" tvg-name="ES: LA 7 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/...,ES: LA 7 FHD
 #EXTGRP:Group 1
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYLTV LA 8 SD" tvg-logo="https://emmatvchannel.files.wordpress.com/2010/10/cyl8.png" group-title="ES   MOVISTAR+",ES: CYLTV LA 8 SD
+http://296440948544688184.ofd0216.xyz:80/play/8FMQ4KNSBX/SmRAbC9gMffE/688184.ts
+#EXTGRP:Group 1
 http://220492356568638214.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/638214.ts
 #EXTINF:1 tvg-id="Telemadrid" tvg-name="ES: TELEMADRID FHD" tvg-logo="https://graph.facebook.com/telemadrid/...,ES: TELEMADRID FHD
 #EXTGRP:Group 1
@@ -76,9 +79,6 @@ http://220492356568646233.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/646233.ts
 http://220492356568321286.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321286.ts
 #EXTINF:1 tvg-id="M+ Suspense HD" tvg-name="ES: M+ SUSPENSE FHD" tvg-logo="https://www.movistarplus.es/recor...,ES: M+ SUSPENSE FHD
 #EXTGRP:Group 1
-http://220492356568552964.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/552964.ts
-#EXTINF:1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://vpsapache.hopto.org/i...,ES: M+ ESTRENOS FHD
-#EXTGRP:Group 1
 http://220492356568321337.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321337.ts
 #EXTINF:1 tvg-id="M+ Cine HD" tvg-name="ES: M+ CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,ES: M+ CINE FHD
 #EXTGRP:Group 1
@@ -99,9 +99,6 @@ http://220492356568321314.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321314.ts
 #EXTGRP:Group 1
 http://220492356568552957.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/552957.ts
 #EXTINF:1 tvg-id="" tvg-name="ES: M+ TERROR FHD" tvg-logo="http://vpsapache.hopto.org/images/movplus terror....,ES: M+ TERROR FHD
-#EXTGRP:Group 1
-http://220492356568673309.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/673309.ts
-#EXTINF:1 tvg-id="" tvg-name="ES: M+ CLASSICOS FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: M+ CLASSICOS FHD
 #EXTGRP:Group 1
 http://220492356568543743.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/543743.ts
 #EXTINF:1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-D...,ES: M+ DRAMA FHD
