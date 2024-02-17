@@ -17,7 +17,9 @@ http://220492356568321429.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321429.ts
 #EXTINF:1 tvg-id="La Sexta HD" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://miguia.tv/channels/big_100.png"...,ES: LA SEXTA FHD
 #EXTGRP:Group 1
 http://220492356568321288.ofd0216.xyz:80/play/vi122112/Mrvy8gvEnG/321288.ts
-#EXTINF:1 tvg-id="La 7" tvg-name="ES: LA 7 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/...,ES: LA 7 FHD
+#EXTGRP:Group 1
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYLTV LA 7 SD" tvg-logo="https://miguia.tv/channels/big_199.png" group-title="ES   MOVISTAR+",ES: CYLTV LA 7 SD
+http://296440948544688183.ofd0216.xyz:80/play/8FMQ4KNSBX/SmRAbC9gMffE/688183.ts
 #EXTGRP:Group 1
 #EXTINF:-1 tvg-id="" tvg-name="ES: CYLTV LA 8 SD" tvg-logo="https://emmatvchannel.files.wordpress.com/2010/10/cyl8.png" group-title="ES   MOVISTAR+",ES: CYLTV LA 8 SD
 http://296440948544688184.ofd0216.xyz:80/play/8FMQ4KNSBX/SmRAbC9gMffE/688184.ts
