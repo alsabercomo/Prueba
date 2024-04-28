@@ -1,289 +1,220 @@
 #EXTM3U
-#EXTINF:1 tvg-id="La 1 HD" tvg-name="LA 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,LA 1 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La 1 HD" tvg-name="LA 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/......,LA 1 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4735
-#EXTINF:1 tvg-id="La 2" tvg-name="LA 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2...,LA 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La 2" tvg-name="LA 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2......,LA 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4736
-#EXTINF:1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,ANTENA 3 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Antena 3 HD" tvg-name="ANTENA 3 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,ANTENA 3 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4737
-#EXTINF:1 tvg-id="Cuatro HD" tvg-name="CUATRO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ca...,CUATRO ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Cuatro HD" tvg-name="CUATRO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ca......,CUATRO ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4738
-#EXTINF:1 tvg-id="Telecinco HD" tvg-name="TELECINCO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,TELECINCO ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Telecinco HD" tvg-name="TELECINCO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,TELECINCO ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4739
-#EXTINF:1 tvg-id="La Sexta HD" tvg-name="LA SEXTA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,LA SEXTA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La Sexta HD" tvg-name="LA SEXTA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,LA SEXTA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4740
-#EXTINF:1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte...,M+ PLUS ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:tvg-id="Energy" tvg-name="ENERGY ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal.....,ENERGY ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4760
+#EXTINF:tvg-id="Factoría de Ficción" tvg-name="FDF ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m.....,FDF ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/201044
+#EXTINF:tvg-id="Divinity" tvg-name="DIVINITY ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/c.....,DIVINITY ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4768
+#EXTINF:tvg-id="DKISS" tvg-name="DKISS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/D.....,DKISS ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4761
+#EXTINF:tvg-id="Teledeporte" tvg-name="TDP ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/can.....,TDP ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4743
+#EXTINF:tvg-id="Be Mad" tvg-name="BeMad ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/.....,BeMad ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4745
+#EXTINF:tvg-id="DMAX" tvg-name="DMAX ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.....,DMAX ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/201042
+#EXTINF:tvg-id="Mega" tvg-name="MEGA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEG.....,MEGA ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/194217
+#EXTINF:tvg-id="Neox" tvg-name="NEOX ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEO.....,NEOX ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4744
+#EXTINF:tvg-id="Nova" tvg-name="NOVA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOV.....,NOVA ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/201041
+#EXTINF:tvg-id="Paramount Channel" tvg-name="PARAMOUNT ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recor.....,PARAMOUNT ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4763
+#EXTINF:tvg-id="Ten" tvg-name="TEN ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.p.....,TEN ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/4766
+#EXTINF:tvg-id="BOM Cine" tvg-name="BOM CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/comm.....,BOM CINE ᵉˢᵖ ʰᵈ
+http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1687662
+#EXTINF:vg-id="Movistar Plus+ HD" tvg-name="M+ PLUS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte......,M+ PLUS ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569904
-#EXTINF:1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/re...,M+ ORIGINALES ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Originales HD" tvg-name="M+ ORIGINALES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/re......,M+ ORIGINALES ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569903
-#EXTINF:1 tvg-id="La Resistencia 24H" tvg-name="M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplu...,M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La Resistencia 24H" tvg-name="M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplu......,M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/194376
-#EXTINF:1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/...,M+ COMEDIA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Comedia HD" tvg-name="M+ COMEDIA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/......,M+ COMEDIA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2723
-#EXTINF:1 tvg-id="La 1 HD" tvg-name="M+ JAMES BOND ᵉˢᵖ ʰᵈ" tvg-logo="https://i.imgur.com/t0z4Qs0.png" group-...,M+ JAMES BOND ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La 1 HD" tvg-name="M+ JAMES BOND ᵉˢᵖ ʰᵈ" tvg-logo="https://i.imgur.com/t0z4Qs0.png" group-......,M+ JAMES BOND ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1673622
-#EXTINF:1 tvg-id="M+ Cine HD" tvg-name="M+ CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/...,M+ CINE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Cine HD" tvg-name="M+ CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/......,M+ CINE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569907
-#EXTINF:1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,M+ INDIE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Indie HD" tvg-name="M+ INDIE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,M+ INDIE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569906
-#EXTINF:1 tvg-id="M+ Suspense HD" tvg-name="M+ SUSPENSE ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recor...,M+ SUSPENSE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Suspense HD" tvg-name="M+ SUSPENSE ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recor......,M+ SUSPENSE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2706
-#EXTINF:1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ ACCION ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Acción HD" tvg-name="M+ ACCION ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ ACCION ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2720
-#EXTINF:1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,M+ DRAMA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Drama HD" tvg-name="M+ DRAMA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,M+ DRAMA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2724
-#EXTINF:1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort...,M+ CLASICOS ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort......,M+ CLASICOS ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/191350
-#EXTINF:1 tvg-id="M+ Cine Español" tvg-name="M+  Cine Español ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/...,M+  Cine Español ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Cine Español" tvg-name="M+  Cine Español ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/......,M+  Cine Español ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2725
-#EXTINF:1 tvg-id="" tvg-name="ACONTRA+ ᵉˢᵖ ʰᵈ" tvg-logo="https://acontraplus.com/wp-content/uploads/2021/12/...,ACONTRA+ ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="" tvg-name="ACONTRA+ ᵉˢᵖ ʰᵈ" tvg-logo="https://acontraplus.com/wp-content/uploads/2021/12/......,ACONTRA+ ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1764403
-#EXTINF:1 tvg-id="TCM HD" tvg-name="TCM ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TC...,TCM ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="TCM HD" tvg-name="TCM ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TC......,TCM ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2726
-#EXTINF:1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/...,SUNDANCE TV ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Sundance TV" tvg-name="SUNDANCE TV ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/......,SUNDANCE TV ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1687410
-#EXTINF:1 tvg-id="SELEKT" tvg-name="SELEKT ᵉˢᵖ ʰᵈ" tvg-logo="https://static.wikia.nocookie.net/logopedia/ima...,SELEKT ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="SELEKT" tvg-name="SELEKT ᵉˢᵖ ʰᵈ" tvg-logo="https://static.wikia.nocookie.net/logopedia/ima......,SELEKT ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1687654
-#EXTINF:1 tvg-id="AMC Crime" tvg-name="AMC CRIME ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,AMC CRIME ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="AMC Crime" tvg-name="AMC CRIME ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,AMC CRIME ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/396492
-#EXTINF:1 tvg-id="AMC Break" tvg-name="AMC BREAK ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,AMC BREAK ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="AMC Break" tvg-name="AMC BREAK ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,AMC BREAK ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2800
-#EXTINF:1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/reco...,HOLLYWOOD ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/reco......,HOLLYWOOD ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2727
-#EXTINF:1 tvg-id="XTRM" tvg-name="XTRM ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTR...,XTRM ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="XTRM" tvg-name="XTRM ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTR......,XTRM ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2730
-#EXTINF:1 tvg-id="M+ Música HD" tvg-name="M+ MUSICA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ MUSICA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Música HD" tvg-name="M+ MUSICA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ MUSICA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1101303
-#EXTINF:1 tvg-id="Somos" tvg-name="SOMOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/S...,SOMOS ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Somos" tvg-name="SOMOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/S......,SOMOS ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/352035
-#EXTINF:1 tvg-id="DARK" tvg-name="DARK ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAR...,DARK ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DARK" tvg-name="DARK ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAR......,DARK ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1397748
-#EXTINF:1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://static.skyassets.com/conte...,SKY SHOWTIME 1 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="SkyShowtime" tvg-name="SKY SHOWTIME 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://static.skyassets.com/conte......,SKY SHOWTIME 1 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1730838
-#EXTINF:1 tvg-id="" tvg-name="HBO MAX SERIES ᵉˢᵖ ʰᵈ" tvg-logo="https://w7.pngwing.com/pngs/923/541/png-trans...,HBO MAX SERIES ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="" tvg-name="HBO MAX SERIES ᵉˢᵖ ʰᵈ" tvg-logo="https://w7.pngwing.com/pngs/923/541/png-trans......,HBO MAX SERIES ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1730557
-#EXTINF:1 tvg-id="" tvg-name="HBO MAX CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://w7.pngwing.com/pngs/923/541/png-transpa...,HBO MAX CINE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="" tvg-name="HBO MAX CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://w7.pngwing.com/pngs/923/541/png-transpa......,HBO MAX CINE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1730558
-#EXTINF:1 tvg-id="M+ Series HD" tvg-name="M+ SERIES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ SERIES ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Series HD" tvg-name="M+ SERIES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ SERIES ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2705
-#EXTINF:1 tvg-id="La 1 HD" tvg-name="STAR CHANNEL ᵉˢᵖ ʰᵈ" tvg-logo="https://1.bp.blogspot.com/-qgZncWJVYZA/Y...,STAR CHANNEL ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La 1 HD" tvg-name="STAR CHANNEL ᵉˢᵖ ʰᵈ" tvg-logo="https://1.bp.blogspot.com/-qgZncWJVYZA/Y......,STAR CHANNEL ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2707
-#EXTINF:1 tvg-id="AXN HD" tvg-name="AXN ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AX...,AXN ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="AXN HD" tvg-name="AXN ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AX......,AXN ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2708
-#EXTINF:1 tvg-id="Warner TV HD" tvg-name="WARNER BROS TV ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recor...,WARNER BROS TV ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Warner TV HD" tvg-name="WARNER BROS TV ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recor......,WARNER BROS TV ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2709
-#EXTINF:1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/...,COMEDY CENTRAL ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/......,COMEDY CENTRAL ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2710
-#EXTINF:1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,CALLE 13 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Calle 13 HD" tvg-name="CALLE 13 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,CALLE 13 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2711
-#EXTINF:1 tvg-id="AMC HD" tvg-name="AMC ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AM...,AMC ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="AMC HD" tvg-name="AMC ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AM......,AMC ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2712
-#EXTINF:1 tvg-id="Cosmo HD" tvg-name="COSMO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/cana...,COSMO ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Cosmo HD" tvg-name="COSMO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/cana......,COSMO ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2713
-#EXTINF:1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m...,AXN MOVIE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="AXN Movies HD" tvg-name="AXN MOVIE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m......,AXN MOVIE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2715
-#EXTINF:1 tvg-id="SyFy HD" tvg-name="SYFY ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,SYFY ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="SyFy HD" tvg-name="SYFY ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/......,SYFY ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2716
-#EXTINF:1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS ᴴᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ca...,#VAMOS ᴴᵉᵛᶜ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Vamos HD" tvg-name="#VAMOS ᴴᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ca......,#VAMOS ᴴᵉᵛᶜ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2769
-#EXTINF:1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/...,#VAMOS ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Vamos HD" tvg-name="#VAMOS ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/......,#VAMOS ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/194710
-#EXTINF:1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ (INTERP)" tvg-logo="https://www.movistarplus.e...,M+ LALIGA ᵉˢᵖ ʰᵈ (INTERP)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ (INTERP)" tvg-logo="https://www.movistarplus.e......,M+ LALIGA ᵉˢᵖ ʰᵈ (INTERP)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/183028
-#EXTINF:1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)" tvg-logo="https://www.movistarplus.es...,M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)" tvg-logo="https://www.movistarplus.es......,M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/183434
-#EXTINF:1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recort...,M+ LALIGA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recort......,M+ LALIGA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2735
-#EXTINF:1 tvg-id="M+ LaLiga TV UHD" tvg-name="M+ LALIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recort...,M+ LALIGA UHD 4K
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ LaLiga TV UHD" tvg-name="M+ LALIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recort......,M+ LALIGA UHD 4K
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569894
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec...,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec......,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/413832
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="https://www.movistarplus....,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="https://www.movistarplus.......,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1094969
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᴴᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recor...,M+ DAZN LALIGA ᴴᵉᵛᶜ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᴴᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recor......,M+ DAZN LALIGA ᴴᵉᵛᶜ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/624124
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb" tvg-logo="https://www.movistarplus.es...,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb" tvg-logo="https://www.movistarplus.es......,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/413830
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)" tvg-logo="https://www.movistarplus...,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)" tvg-logo="https://www.movistarplus......,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/414945
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)" tvg-logo="https://www.movistarplus....,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)" tvg-logo="https://www.movistarplus.......,M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/414892
-#EXTINF:1 tvg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/rec...,M+ DAZN LALIGA ᵉˢᵖ ˢᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga HD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/rec......,M+ DAZN LALIGA ᵉˢᵖ ˢᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/413831
-#EXTINF:1 tvg-id="DAZN LaLiga 2 HD" tvg-name="M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es...,M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN LaLiga 2 HD" tvg-name="M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es......,M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/413833
-#EXTINF:1 tvg-id="" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/can...,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/can......,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1784396
-#EXTINF:1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (3MB)" tvg-logo="https://www.movi...,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (3MB)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (3MB)" tvg-logo="https://www.movi......,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (3MB)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1784397
-#EXTINF:1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)" tvg-logo="https://www.movi...,M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)" tvg-logo="https://www.movi......,M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/414943
-#EXTINF:1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)" tvg-logo="https://www.mo...,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)" tvg-logo="https://www.mo......,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/391739
-#EXTINF:1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="https://www.movi...,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Liga de Campeones HD" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="https://www.movi......,M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/284771
-#EXTINF:1 tvg-id="M+ Liga de Campeones UHD" tvg-name="M+ LCAMPEONES UHD 4k" tvg-logo="https://www.movistarpl...,M+ LCAMPEONES UHD 4k
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Liga de Campeones UHD" tvg-name="M+ LCAMPEONES UHD 4k" tvg-logo="https://www.movistarpl......,M+ LCAMPEONES UHD 4k
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1677073
-#EXTINF:1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movis...,LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movis......,LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569504
-#EXTINF:1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ 2Mb" tvg-logo="https://www.m...,LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ 2Mb
-#EXTGRP:Group 1
+#EXTINF:vg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ 2Mb" tvg-logo="https://www.m......,LALIGA HYPERMOTION ᵉˢᵖ ʰᵈ 2Mb
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569505
-#EXTINF:1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movi...,LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movi......,LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569506
-#EXTINF:1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ 2Mb" tvg-logo="https://www....,LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ 2Mb
-#EXTGRP:Group 1
+#EXTINF:vg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ 2Mb" tvg-logo="https://www.......,LALIGA HYPERMOTION 2 ᵉˢᵖ ʰᵈ 2Mb
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1569507
-#EXTINF:1 tvg-id="DAZN 1 HD" tvg-name="M+ DAZN 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,M+ DAZN 1 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN 1 HD" tvg-name="M+ DAZN 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,M+ DAZN 1 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2762
-#EXTINF:1 tvg-id="DAZN 2 HD" tvg-name="M+ DAZN 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,M+ DAZN 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN 2 HD" tvg-name="M+ DAZN 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,M+ DAZN 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2763
-#EXTINF:1 tvg-id="DAZN 3 HD" tvg-name="M+ DAZN 3 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,M+ DAZN 3 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN 3 HD" tvg-name="M+ DAZN 3 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,M+ DAZN 3 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2764
-#EXTINF:1 tvg-id="DAZN 4 HD" tvg-name="M+ DAZN 4 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,M+ DAZN 4 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN 4 HD" tvg-name="M+ DAZN 4 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO......,M+ DAZN 4 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2765
-#EXTINF:1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ DAZN F1 (H.265)
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ DAZN F1 (H.265)
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/393429
-#EXTINF:1 tvg-id="DAZN F1 4K" tvg-name="M+ DAZN F1 4K UHD" tvg-logo="https://www.movistarplus.es/recorte/m-N...,M+ DAZN F1 4K UHD
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN F1 4K" tvg-name="M+ DAZN F1 4K UHD" tvg-logo="https://www.movistarplus.es/recorte/m-N......,M+ DAZN F1 4K UHD
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1677072
-#EXTINF:1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ DAZN F1 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ DAZN F1 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/350647
-#EXTINF:1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 BAR ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia...,DAZN F1 BAR ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN F1 HD" tvg-name="DAZN F1 BAR ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia......,DAZN F1 BAR ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1696432
-#EXTINF:1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-N...,M+ DAZN F1 ᵉˢᵖ ˢᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-N......,M+ DAZN F1 ᵉˢᵖ ˢᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2767
-#EXTINF:1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort...,M+ DEPORTES ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Deportes HD" tvg-name="M+ DEPORTES ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort......,M+ DEPORTES ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/522797
-#EXTINF:1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/recort...,M+ DEPORTES ᵉˢᵖ ˢᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Deportes HD" tvg-name="M+ DEPORTES ᵉˢᵖ ˢᵈ" tvg-logo="https://www.movistarplus.es/recort......,M+ DEPORTES ᵉˢᵖ ˢᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/522785
-#EXTINF:1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/re...,M+ DEPORTES 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/re......,M+ DEPORTES 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1108373
-#EXTINF:1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ ELLAS #V ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec...,M+ ELLAS #V ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Ellas Vamos HD" tvg-name="M+ ELLAS #V ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec......,M+ ELLAS #V ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/395589
-#EXTINF:1 tvg-id="M+ Golf HD" tvg-name=" M+ GOLF ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/m-NE...,M+ GOLF ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Golf HD" tvg-name=" M+ GOLF ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/m-NE......,M+ GOLF ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1391902
-#EXTINF:1 tvg-id="M+ Golf 2 HD" tvg-name="M+ GOLF 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ GOLF 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="M+ Golf 2 HD" tvg-name="M+ GOLF 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,M+ GOLF 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1391903
-#EXTINF:1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ PLUS 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec...,M+ PLUS 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Movistar Plus+ 2 HD" tvg-name="M+ PLUS 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/rec......,M+ PLUS 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1682320
-#EXTINF:1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort...,EUROSPORT 1 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort......,EUROSPORT 1 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2779
-#EXTINF:1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m...,EUROSPORT 2 ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Eurosport 2" tvg-name="EUROSPORT 2 ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m......,EUROSPORT 2 ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2780
-#EXTINF:1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort...,REAL MADRID ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Real Madrid TV" tvg-name="REAL MADRID ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recort......,REAL MADRID ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2784
-#EXTINF:1 tvg-id="National Geographic" tvg-name="NAT GEO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recor...,NAT GEO ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="National Geographic" tvg-name="NAT GEO ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recor......,NAT GEO ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2792
-#EXTINF:1 tvg-id="Nat Geo Wild" tvg-name="NAT WILD ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-N...,NAT WILD ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Nat Geo Wild" tvg-name="NAT WILD ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-N......,NAT WILD ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2793
-#EXTINF:1 tvg-id="Historia" tvg-name="HISTORIA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/c...,HISTORIA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Historia" tvg-name="HISTORIA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/c......,HISTORIA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/352038
-#EXTINF:1 tvg-id="Discovery" tvg-name="DISCOVERY CH ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-...,DISCOVERY CH ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Discovery" tvg-name="DISCOVERY CH ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-......,DISCOVERY CH ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2796
-#EXTINF:1 tvg-id="Odisea" tvg-name="ODISEA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal...,ODISEA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Odisea" tvg-name="ODISEA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal......,ODISEA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2798
-#EXTINF:1 tvg-id="Bajo demanda" tvg-name="ONETORO TV ᵉˢᵖ ʰᵈ" tvg-logo="https://elcierredigital.com/images/ca...,ONETORO TV ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Bajo demanda" tvg-name="ONETORO TV ᵉˢᵖ ʰᵈ" tvg-logo="https://elcierredigital.com/images/ca......,ONETORO TV ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1216189
-#EXTINF:1 tvg-id="La 1 HD" tvg-name="ONETORO TV ᵉˢᵖ ˢᵈ" tvg-logo="https://elcierredigital.com/images/carpeta...,ONETORO TV ᵉˢᵖ ˢᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="La 1 HD" tvg-name="ONETORO TV ᵉˢᵖ ˢᵈ" tvg-logo="https://elcierredigital.com/images/carpeta......,ONETORO TV ᵉˢᵖ ˢᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1216190
-#EXTINF:1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte...,CANAL COCINA ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Canal Cocina" tvg-name="CANAL COCINA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte......,CANAL COCINA ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/2808
-#EXTINF:1 tvg-id="Escapa TV" tvg-name="ESCAPA TV ᵉˢᵖ ʰᵈ" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/...,ESCAPA TV ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="Escapa TV" tvg-name="ESCAPA TV ᵉˢᵖ ʰᵈ" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/......,ESCAPA TV ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/352077
-#EXTINF:1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,BUEN VIAJE ᵉˢᵖ ʰᵈ
-#EXTGRP:Group 1
+#EXTINF:vg-id="BuenViaje" tvg-name="BUEN VIAJE ᵉˢᵖ ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NE......,BUEN VIAJE ᵉˢᵖ ʰᵈ
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1687652
-#EXTINF:1 tvg-id="" tvg-name="CANAL SUR HD" tvg-logo="http://fenixsappskycenter.sytes.net:8080/images/55f118...,CANAL SUR HD
-#EXTGRP:Group 1
+#EXTINF:vg-id="" tvg-name="CANAL SUR HD" tvg-logo="http://fenixsappskycenter.sytes.net:8080/images/55f118......,CANAL SUR HD
 http://nexusplayvip.dnsfor.me:8080/pablo2023c/abono2023d/1674412
+
