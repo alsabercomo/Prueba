@@ -1,156 +1,157 @@
 #EXTM3U
-#EXTINF:1 tvg-id="la1.es" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-ti...,LA 1 FHD
+#EXTINF:1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-ti...,ES: LA 1 FHD
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:1 tvg-id="La 2" tvg-name="LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title...,LA 2 FHD
+#EXTINF:1 tvg-id="La 2" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title...,ES: LA 2 FHD
 http://354501224295321279.tkop413.xyz:80/play/te425319/y5cv95EerAV/321279.ts
-#EXTINF:1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" ...,ANTENA 3 FHD
+#EXTINF:1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" ...,ES: ANTENA 3 FHD
 http://354501224295321105.tkop413.xyz:80/play/te425319/y5cv95EerAV/321105.ts
-#EXTINF:1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" grou...,CUATRO FHD
+#EXTINF:1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" grou...,ES: CUATRO FHD
 http://354501224295321196.tkop413.xyz:80/play/te425319/y5cv95EerAV/321196.ts
-#EXTINF:1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.pn...,TELECINCO FHD
+#EXTINF:1 tvg-id="Telecinco HD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.pn...,ES: TELECINCO FHD
 http://354501224295321429.tkop413.xyz:80/play/te425319/y5cv95EerAV/321429.ts
-#EXTINF:1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://miguia.tv/channels/big_100.png"...,LA SEXTA FHD
+#EXTINF:1 tvg-id="La Sexta HD" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://miguia.tv/channels/big_100.png"...,ES: LA SEXTA FHD
 http://354501224295321288.tkop413.xyz:80/play/te425319/y5cv95EerAV/321288.ts
-#EXTINF:1 tvg-id="Telemadrid" tvg-name="TELE MADRID HD" tvg-logo="https://www.telemadrid.es/static/BB3HT...,TELE MADRID HD
-http://354501224295453222.tkop413.xyz:80/play/te425319/y5cv95EerAV/453222.ts
-#EXTINF:1 tvg-id="atreseries.es" tvg-name="A3 SERIES FHD" tvg-logo="https://miguia.tv/channels/big_276.p...,A3 SERIES FHD
+#EXTINF:1 tvg-id="Telemadrid" tvg-name="ES: TELE MADRID HD" tvg-logo="https://www.telemadrid.es/static/BB3HT...,ES: TELE MADRID HD
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:1 tvg-id="canalsurandalucia.es" tvg-name="ES: CANAL SUR ANDALUCíA FHD" tvg-logo="http://109.238.11.8...,ES: CANAL SUR ANDALUCíA FHD
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+#EXTINF:1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES FHD" tvg-logo="https://miguia.tv/channels/big_276.p...,ES: A3 SERIES FHD
 http://354501224295321086.tkop413.xyz:80/play/te425319/y5cv95EerAV/321086.ts
-#EXTINF:1 tvg-id="factoriaficcion.es" tvg-name="FDF SD" tvg-logo="https://miguia.tv/channels/big_85.png"...,FDF SD
+#EXTINF:1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF SD" tvg-logo="https://miguia.tv/channels/big_85.png"...,ES: FDF SD
 http://354501224295321249.tkop413.xyz:80/play/te425319/y5cv95EerAV/321249.ts
-#EXTINF:1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-titl...,DMAX FHD
+#EXTINF:1 tvg-id="DMAX" tvg-name="ES: DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-titl...,ES: DMAX FHD
 http://354501224295321225.tkop413.xyz:80/play/te425319/y5cv95EerAV/321225.ts
-#EXTINF:1 tvg-id="Divinity" tvg-name="DIVINITY SD" tvg-logo="https://miguia.tv/channels/big_76.png" grou...,DIVINITY SD
+#EXTINF:1 tvg-id="Divinity" tvg-name="ES: DIVINITY SD" tvg-logo="https://miguia.tv/channels/big_76.png" grou...,ES: DIVINITY SD
 http://354501224295321223.tkop413.xyz:80/play/te425319/y5cv95EerAV/321223.ts
-#EXTINF:1 tvg-id="Be Mad" tvg-name="BE MAD FHD" tvg-logo="https://miguia.tv/channels/big_277.png" group-...,BE MAD FHD
+#EXTINF:1 tvg-id="Be Mad" tvg-name="ES: BE MAD FHD" tvg-logo="https://miguia.tv/channels/big_277.png" group-...,ES: BE MAD FHD
 http://354501224295542578.tkop413.xyz:80/play/te425319/y5cv95EerAV/542578.ts
-#EXTINF:1 tvg-id="Mega" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42...,MEGA HD
+#EXTINF:1 tvg-id="Mega" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42...,ES: MEGA HD
 http://354501224295321300.tkop413.xyz:80/play/te425319/y5cv95EerAV/321300.ts
-#EXTINF:1 tvg-id="Neox" tvg-name="NEOX FHD" tvg-logo="https://miguia.tv/channels/big_125.png" group-titl...,NEOX FHD
+#EXTINF:1 tvg-id="Neox" tvg-name="ES: NEOX FHD" tvg-logo="https://miguia.tv/channels/big_125.png" group-titl...,ES: NEOX FHD
 http://354501224295321374.tkop413.xyz:80/play/te425319/y5cv95EerAV/321374.ts
-#EXTINF:1 tvg-id="Nova" tvg-name="NOVA HD" tvg-logo="https://miguia.tv/channels/big_130.png" group-title...,NOVA HD
+#EXTINF:1 tvg-id="Nova" tvg-name="ES: NOVA HD" tvg-logo="https://miguia.tv/channels/big_130.png" group-title...,ES: NOVA HD
 http://354501224295321383.tkop413.xyz:80/play/te425319/y5cv95EerAV/321383.ts
-#EXTINF:1 tvg-id="DMAX" tvg-name="DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title...,DMAX HD
+#EXTINF:1 tvg-id="DMAX" tvg-name="ES: DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title...,ES: DMAX HD
 http://354501224295321226.tkop413.xyz:80/play/te425319/y5cv95EerAV/321226.ts
-#EXTINF:1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA FHD" tvg-logo="https://miguia.tv/channels/big_6...,CANAL DECASA FHD
+#EXTINF:1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://miguia.tv/channels/big_6...,ES: CANAL DECASA FHD
 http://354501224295339739.tkop413.xyz:80/play/te425319/y5cv95EerAV/339739.ts
-#EXTINF:1 tvg-id="M+ Golf HD" tvg-name="GOL FHD" tvg-logo="http://directostv.teleame.com/wp-content/uplo...,GOL FHD
+#EXTINF:1 tvg-id="M+ Golf HD" tvg-name="ES: GOL FHD" tvg-logo="http://directostv.teleame.com/wp-content/uplo...,ES: GOL FHD
 http://354501224295340038.tkop413.xyz:80/play/te425319/y5cv95EerAV/340038.ts
-#EXTINF:1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV FHD" tvg-logo="https://miguia.tv/channels/big...,REAL MADRID TV FHD
+#EXTINF:1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://miguia.tv/channels/big...,ES: REAL MADRID TV FHD
 http://354501224295538767.tkop413.xyz:80/play/te425319/y5cv95EerAV/538767.ts
-#EXTINF:1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD" tvg-logo="http://www.movistarplus.es/recorte/m...,TELEDEPORTE FHD
+#EXTINF:1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://www.movistarplus.es/recorte/m...,ES: TELEDEPORTE FHD
 http://354501224295538769.tkop413.xyz:80/play/te425319/y5cv95EerAV/538769.ts
-#EXTINF:1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/r...,M+ ORIGINALES FHD
+#EXTINF:1 tvg-id="M+ Originales HD" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/r...,ES: M+ ORIGINALES FHD
 http://354501224295321068.tkop413.xyz:80/play/te425319/y5cv95EerAV/321068.ts
-#EXTINF:1 tvg-id="LA 1" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo...,M+ PLUS+ FHD
+#EXTINF:1 tvg-id="LA 1" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo...,ES: M+ PLUS+ FHD
 http://354501224295321334.tkop413.xyz:80/play/te425319/y5cv95EerAV/321334.ts
-#EXTINF:1 tvg-id="La Resistencia 24H" tvg-name="LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/...,LA RESISTENCIA HD
+#EXTINF:1 tvg-id="La Resistencia 24H" tvg-name="ES: LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/...,ES: LA RESISTENCIA HD
 http://354501224295321286.tkop413.xyz:80/play/te425319/y5cv95EerAV/321286.ts
-#EXTINF:1 tvg-id="La 1 HD" tvg-name="M+ JAMES BOND FHD" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ JAMES BOND FHD
+#EXTINF:1 tvg-id="La 1 HD" tvg-name="ES: M+ JAMES BOND FHD" tvg-logo="https://www.movistarplus.es/recorte/m-...,ES: M+ JAMES BOND FHD
 http://354501224295820862.tkop413.xyz:80/play/te425319/y5cv95EerAV/820862.ts
-#EXTINF:1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ ACCION FHD
+#EXTINF:1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/reco...,ES: M+ ACCION FHD
 http://354501224295321305.tkop413.xyz:80/play/te425319/y5cv95EerAV/321305.ts
-#EXTINF:1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte...,M+ COMEDIA FHD
+#EXTINF:1 tvg-id="M+ Comedia HD" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte...,ES: M+ COMEDIA FHD
 http://354501224295321317.tkop413.xyz:80/play/te425319/y5cv95EerAV/321317.ts
-#EXTINF:1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-D...,M+ DRAMA FHD
+#EXTINF:1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-D...,ES: M+ DRAMA FHD
 http://354501224295321331.tkop413.xyz:80/play/te425319/y5cv95EerAV/321331.ts
-#EXTINF:1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 FHD" tvg-logo="http://vpsapache.hopto.org/im...,M+ SUSPENSE FHD
+#EXTINF:1 tvg-id="movistarseries2.es" tvg-name="ES: M+ SERIES 2 FHD" tvg-logo="http://vpsapache.hopto.org/im...,ES: M+ SUSPENSE FHD
 http://354501224295321344.tkop413.xyz:80/play/te425319/y5cv95EerAV/321344.ts
-#EXTINF:1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://ultra4k.ottlion.com:8...,M+ CINE FHD
+#EXTINF:1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://ultra4k.ottlion.com:8...,ES: M+ CINE FHD
 http://354501224295321337.tkop413.xyz:80/play/te425319/y5cv95EerAV/321337.ts
-#EXTINF:1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-N...,M+ INDIE FHD
+#EXTINF:1 tvg-id="M+ Indie HD" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-N...,ES: M+ INDIE FHD
 http://354501224295552957.tkop413.xyz:80/play/te425319/y5cv95EerAV/552957.ts
-#EXTINF:1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recor...,M+ CLASICOS FHD
+#EXTINF:1 tvg-id="M+ CLÁSICOS HD" tvg-name="ES: M+ CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recor...,ES: M+ CLASICOS FHD
 http://354501224295321314.tkop413.xyz:80/play/te425319/y5cv95EerAV/321314.ts
-#EXTINF:1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="http://vpsapache.hopto.org/i...,M+ CINE ESPAÑOL FHD
+#EXTINF:1 tvg-id="M+ Cine Español" tvg-name="ES: M+ CINE ESPAÑOL FHD" tvg-logo="http://vpsapache.hopto.org/i...,ES: M+ CINE ESPAÑOL FHD
 http://354501224295620943.tkop413.xyz:80/play/te425319/y5cv95EerAV/620943.ts
-#EXTINF:1 tvg-id="" tvg-name="M+ MUSICA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN...,M+ MUSICA FHD
+#EXTINF:1 tvg-id="" tvg-name="ES: M+ MUSICA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN...,ES: M+ MUSICA FHD
 http://354501224295561135.tkop413.xyz:80/play/te425319/y5cv95EerAV/561135.ts
-#EXTINF:1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title...,AXN FHD
+#EXTINF:1 tvg-id="AXN HD" tvg-name="ES: AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title...,ES: AXN FHD
 http://354501224295321118.tkop413.xyz:80/play/te425319/y5cv95EerAV/321118.ts
-#EXTINF:1 tvg-id="axnwhite.es" tvg-name="AXN WHITE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87047_l...,AXN MOVIES FHD
+#EXTINF:1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87047_l...,ES: AXN MOVIES FHD
 http://354501224295321115.tkop413.xyz:80/play/te425319/y5cv95EerAV/321115.ts
-#EXTINF:1 tvg-id="fox.es" tvg-name="FOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7504_420...,FOX FHD
+#EXTINF:1 tvg-id="fox.es" tvg-name="ES: FOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7504_420...,ES: FOX FHD
 http://354501224295321251.tkop413.xyz:80/play/te425319/y5cv95EerAV/321251.ts
-#EXTINF:1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-tit...,AMC FHD
+#EXTINF:1 tvg-id="AMC HD" tvg-name="ES: AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-tit...,ES: AMC FHD
 http://354501224295321102.tkop413.xyz:80/play/te425319/y5cv95EerAV/321102.ts
-#EXTINF:1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://miguia.tv/channels/big_15.png" g...,AMC BREAK FHD
+#EXTINF:1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://miguia.tv/channels/big_15.png" g...,ES: AMC BREAK FHD
 http://354501224295336283.tkop413.xyz:80/play/te425319/y5cv95EerAV/336283.ts
-#EXTINF:1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,AMC CRIME HD
+#EXTINF:1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO...,ES: AMC CRIME HD
 http://354501224295386495.tkop413.xyz:80/play/te425319/y5cv95EerAV/386495.ts
-#EXTINF:1 tvg-id="foxlife.es" tvg-name="FOX LIFE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll...,STAR CHANNEL FHD
+#EXTINF:1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll...,ES: STAR CHANNEL FHD
 http://354501224295336315.tkop413.xyz:80/play/te425319/y5cv95EerAV/336315.ts
-#EXTINF:1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://miguia.tv/channels/big_21.png" ...,CALLE 13 FHD
+#EXTINF:1 tvg-id="Calle 13 HD" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://miguia.tv/channels/big_21.png" ...,ES: CALLE 13 FHD
 http://354501224295321138.tkop413.xyz:80/play/te425319/y5cv95EerAV/321138.ts
-#EXTINF:1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png" group-tit...,TCM FHD
+#EXTINF:1 tvg-id="TCM HD" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png" group-tit...,ES: TCM FHD
 http://354501224295321425.tkop413.xyz:80/play/te425319/y5cv95EerAV/321425.ts
-#EXTINF:1 tvg-id="SyFy HD" tvg-name="SYFY FHD" tvg-logo="https://miguia.tv/channels/big_141.png" group-t...,SYFY FHD
+#EXTINF:1 tvg-id="SyFy HD" tvg-name="ES: SYFY FHD" tvg-logo="https://miguia.tv/channels/big_141.png" group-t...,ES: SYFY FHD
 http://354501224295321422.tkop413.xyz:80/play/te425319/y5cv95EerAV/321422.ts
-#EXTINF:1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://miguia.tv/channels/big_213.png" group-titl...,XTRM FHD
+#EXTINF:1 tvg-id="XTRM" tvg-name="ES: XTRM FHD" tvg-logo="https://miguia.tv/channels/big_213.png" group-titl...,ES: XTRM FHD
 http://354501224295321476.tkop413.xyz:80/play/te425319/y5cv95EerAV/321476.ts
-#EXTINF:1 tvg-id="Dreamworks HD" tvg-name="DREAMWORKS FHD" tvg-logo="http://vpsapache.hopto.org/images/1...,DREAMWORKS FHD
+#EXTINF:1 tvg-id="Dreamworks HD" tvg-name="ES: DREAMWORKS FHD" tvg-logo="http://vpsapache.hopto.org/images/1...,ES: DREAMWORKS FHD
 http://354501224295323210.tkop413.xyz:80/play/te425319/y5cv95EerAV/323210.ts
-#EXTINF:1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_...,HOLLYWOOD FHD
+#EXTINF:1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_...,ES: HOLLYWOOD FHD
 http://354501224295321265.tkop413.xyz:80/play/te425319/y5cv95EerAV/321265.ts
-#EXTINF:1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://miguia.tv/channels/...,COMEDY CENTRAL FHD
+#EXTINF:1 tvg-id="Comedy Central HD" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://miguia.tv/channels/...,ES: COMEDY CENTRAL FHD
 http://354501224295321183.tkop413.xyz:80/play/te425319/y5cv95EerAV/321183.ts
-#EXTINF:1 tvg-id="Cosmo HD" tvg-name="COSMO FHD" tvg-logo="https://miguia.tv/channels/big_62.png" group-...,COSMO FHD
+#EXTINF:1 tvg-id="Cosmo HD" tvg-name="ES: COSMO FHD" tvg-logo="https://miguia.tv/channels/big_62.png" group-...,ES: COSMO FHD
 http://354501224295321187.tkop413.xyz:80/play/te425319/y5cv95EerAV/321187.ts
-#EXTINF:1 tvg-id="M+ Series HD" tvg-name="M+ SERIES FHD" tvg-logo="https://miguia.tv/channels/big_273.pn...,M+ SERIES FHD
+#EXTINF:1 tvg-id="M+ Series HD" tvg-name="ES: M+ SERIES FHD" tvg-logo="https://miguia.tv/channels/big_273.pn...,ES: M+ SERIES FHD
 http://354501224295321347.tkop413.xyz:80/play/te425319/y5cv95EerAV/321347.ts
-#EXTINF:1 tvg-id="M+ Vamos HD" tvg-name="M+ #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-...,M+ #VAMOS FHD
+#EXTINF:1 tvg-id="M+ Vamos HD" tvg-name="ES: M+ #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-...,ES: M+ #VAMOS FHD
 http://354501224295819488.tkop413.xyz:80/play/te425319/y5cv95EerAV/819488.ts
-#EXTINF:1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/...,M+ LALIGA FHD
+#EXTINF:1 tvg-id="M+ LaLiga TV HD" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/...,ES: M+ LALIGA FHD
 http://354501224295165385.tkop413.xyz:80/play/te425319/y5cv95EerAV/165385.ts
-#EXTINF:1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/...,M+ LALIGA 2 HD
+#EXTINF:1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/...,ES: M+ LALIGA 2 HD
 http://354501224295165398.tkop413.xyz:80/play/te425319/y5cv95EerAV/165398.ts
-#EXTINF:1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/...,M+ LALIGA 3 HD
+#EXTINF:1 tvg-id="mlaliga3.es" tvg-name="ES: M+ LALIGA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/...,ES: M+ LALIGA 3 HD
 http://354501224295165400.tkop413.xyz:80/play/te425319/y5cv95EerAV/165400.ts
-#EXTINF:1 tvg-id="daznlaliga.es" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd...,DAZN LALIGA FHD
+#EXTINF:1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd...,ES: DAZN LALIGA FHD
 http://354501224295320782.tkop413.xyz:80/play/te425319/y5cv95EerAV/320782.ts
-#EXTINF:1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/...,DAZN LALIGA 2 FHD
+#EXTINF:1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/...,ES: DAZN LALIGA 2 FHD
 http://354501224295320780.tkop413.xyz:80/play/te425319/y5cv95EerAV/320780.ts
-#EXTINF:1 tvg-id="laligasmartbank.es" tvg-name="M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga....,M LALIGA HYPERMOTION FHD
+#EXTINF:1 tvg-id="laligasmartbank.es" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga....,ES: M LALIGA HYPERMOTION FHD
 http://354501224295320785.tkop413.xyz:80/play/te425319/y5cv95EerAV/320785.ts
-#EXTINF:1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngs...,LIGA DE CAMPEONES FHD HEVC
+#EXTINF:1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngs...,ES: LIGA DE CAMPEONES FHD HEVC
 http://354501224295262412.tkop413.xyz:80/play/te425319/y5cv95EerAV/262412.ts
-#EXTINF:1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat...,LIGA DE CAMPEONES 2 FHD
+#EXTINF:1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat...,ES: LIGA DE CAMPEONES 2 FHD
 http://354501224295165365.tkop413.xyz:80/play/te425319/y5cv95EerAV/165365.ts
-#EXTINF:1 tvg-id="daznf1.es" tvg-name="DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikiped...,DAZN FORMULA 1 HD
+#EXTINF:1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikiped...,ES: DAZN FORMULA 1 HD
 http://354501224295165419.tkop413.xyz:80/play/te425319/y5cv95EerAV/165419.ts
-#EXTINF:1 tvg-id="dazn1.es" tvg-name="M+ DAZN 1 (H265) FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a...,M+ DAZN 1 (H265) FHD
+#EXTINF:1 tvg-id="dazn1.es" tvg-name="ES: M+ DAZN 1 (H265) FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a...,ES: M+ DAZN 1 (H265) FHD
 http://354501224295228390.tkop413.xyz:80/play/te425319/y5cv95EerAV/228390.ts
-#EXTINF:1 tvg-id="dazn2.es" tvg-name="M+ DAZN 2 FHD (H265) SD" tvg-logo="https://boxtvmania.files.wordpr...,M+ DAZN 2 FHD (H265) SD
+#EXTINF:1 tvg-id="dazn2.es" tvg-name="ES: M+ DAZN 2 FHD (H265) SD" tvg-logo="https://boxtvmania.files.wordpr...,ES: M+ DAZN 2 FHD (H265) SD
 http://354501224295228391.tkop413.xyz:80/play/te425319/y5cv95EerAV/228391.ts
-#EXTINF:1 tvg-id="dazn3.es" tvg-name="M+ DAZN 3 FHD (H265) FHD" tvg-logo="https://www.lyngsat-logo.com/l...,M+ DAZN 3 FHD (H265) FHD
+#EXTINF:1 tvg-id="dazn3.es" tvg-name="ES: M+ DAZN 3 FHD (H265) FHD" tvg-logo="https://www.lyngsat-logo.com/l...,ES: M+ DAZN 3 FHD (H265) FHD
 http://354501224295228392.tkop413.xyz:80/play/te425319/y5cv95EerAV/228392.ts
-#EXTINF:1 tvg-id="dazn4.es" tvg-name="M+ DAZN 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/d...,M+ DAZN 4 FHD
+#EXTINF:1 tvg-id="dazn4.es" tvg-name="ES: M+ DAZN 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/d...,ES: M+ DAZN 4 FHD
 http://354501224295228397.tkop413.xyz:80/play/te425319/y5cv95EerAV/228397.ts
-#EXTINF:1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES FHD" tvg-logo="http://www.movistarplus.es/recort...,M+ DEPORTES FHD
+#EXTINF:1 tvg-id="M+ Deportes HD" tvg-name="ES: M+ DEPORTES FHD" tvg-logo="http://www.movistarplus.es/recort...,ES: M+ DEPORTES FHD
 http://354501224295538695.tkop413.xyz:80/play/te425319/y5cv95EerAV/538695.ts
-#EXTINF:1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 FHD" tvg-logo="https://estatico.emisiondof6....,M+ DEPORTES 2 FHD
+#EXTINF:1 tvg-id="M+ Deportes 2 HD" tvg-name="ES: M+ DEPORTES 2 FHD" tvg-logo="https://estatico.emisiondof6....,ES: M+ DEPORTES 2 FHD
 http://354501224295538679.tkop413.xyz:80/play/te425319/y5cv95EerAV/538679.ts
-#EXTINF:1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 FHD" tvg-logo="https://estatico.emisiondof6.com...,M+ DEPORTES 3 FHD
+#EXTINF:1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 FHD" tvg-logo="https://estatico.emisiondof6.com...,ES: M+ DEPORTES 3 FHD
 http://354501224295538682.tkop413.xyz:80/play/te425319/y5cv95EerAV/538682.ts
-#EXTINF:1 tvg-id="M+ Golf HD" tvg-name="M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBL...,M+ GOLF FHD
+#EXTINF:1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBL...,ES: M+ GOLF FHD
 http://354501224295268094.tkop413.xyz:80/play/te425319/y5cv95EerAV/268094.ts
-#EXTINF:1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte...,EUROSPORT 1 FHD
+#EXTINF:1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte...,ES: EUROSPORT 1 FHD
 http://354501224295290348.tkop413.xyz:80/play/te425319/y5cv95EerAV/290348.ts
-#EXTINF:1 tvg-id="LA 1 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBL...,EUROSPORT 2 HD
+#EXTINF:1 tvg-id="LA 1 HD" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBL...,ES: EUROSPORT 2 HD
 http://354501224295828361.tkop413.xyz:80/play/te425319/y5cv95EerAV/828361.ts
-#EXTINF:1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="https://www.movistarplus....,M+ DOCUMENTALES FHD
+#EXTINF:1 tvg-id="M+ Documentales HD" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="https://www.movistarplus....,ES: M+ DOCUMENTALES FHD
 http://354501224295552954.tkop413.xyz:80/play/te425319/y5cv95EerAV/552954.ts
-#EXTINF:1 tvg-id="Odisea" tvg-name="ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-t...,ODISEA SD
+#EXTINF:1 tvg-id="Odisea" tvg-name="ES: ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-t...,ES: ODISEA SD
 http://354501224295321390.tkop413.xyz:80/play/te425319/y5cv95EerAV/321390.ts
-#EXTINF:1 tvg-id="Historia" tvg-name="HISTORIA FHD" tvg-logo="https://miguia.tv/channels/big_92.png" gro...,HISTORIA FHD
+#EXTINF:1 tvg-id="Historia" tvg-name="ES: HISTORIA FHD" tvg-logo="https://miguia.tv/channels/big_92.png" gro...,ES: HISTORIA FHD
 http://132756524645336326.tkop413.xyz:80/play/te425319/y5cv95EerAV/336326.ts
-#EXTINF:1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://miguia.tv...,NATIONAL GEOGRAPHIC FHD
+#EXTINF:1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://miguia.tv...,ES: NATIONAL GEOGRAPHIC FHD
 http://354501224295321371.tkop413.xyz:80/play/te425319/y5cv95EerAV/321371.ts
-#EXTINF:1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://miguia.tv/channels/big_123...,NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://miguia.tv/channels/big_123...,ES: NATIONAL GEOGRAPHIC WILD FHD
 http://354501224295681803.tkop413.xyz:80/play/te425319/y5cv95EerAV/681803.ts
-#EXTINF:1 tvg-id="Discovery" tvg-name="DISCOVERY SD" tvg-logo="https://www.monpetitforfait.com/comparate...,DISCOVERY SD
+#EXTINF:1 tvg-id="Discovery" tvg-name="ES: DISCOVERY SD" tvg-logo="https://www.monpetitforfait.com/comparate...,ES: DISCOVERY SD
 http://354501224295326817.tkop413.xyz:80/play/te425319/y5cv95EerAV/326817.ts
-#EXTINF:1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43....,CANAL COCINA FHD
+#EXTINF:1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43....,ES: CANAL COCINA FHD
 http://354501224295321147.tkop413.xyz:80/play/te425319/y5cv95EerAV/321147.ts
-#EXTINF:1 tvg-id="OneToro TV" tvg-name="ONETORO TV FHD" tvg-logo="https://up6.cc/2023/08/16908979245241....,ONETORO TV FHD
+#EXTINF:1 tvg-id="OneToro TV" tvg-name="ES: ONETORO TV FHD" tvg-logo="https://up6.cc/2023/08/16908979245241....,ES: ONETORO TV FHD
 http://354501224295558671.tkop413.xyz:80/play/te425319/y5cv95EerAV/558671.ts
-
