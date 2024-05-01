@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-id="la1.es" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-ti...,LA 1 FHD
-http://354501224295321276.tkop413.xyz:80/play/te425319/y5cv95EerAV/321276.ts
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:1 tvg-id="La 2" tvg-name="LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title...,LA 2 FHD
 http://354501224295321279.tkop413.xyz:80/play/te425319/y5cv95EerAV/321279.ts
 #EXTINF:1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" ...,ANTENA 3 FHD
