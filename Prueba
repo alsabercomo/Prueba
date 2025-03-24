@@ -1,223 +1,1197 @@
 #EXTM3U
-#EXTINF:1 tvg-id="la1.es" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-ti...,LA 1 FHD
-http://498943464296321276.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321276.ts
-#EXTINF:1 tvg-id="la2.es" tvg-name="LA 2 FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOH...,LA 2 FHD
-http://498943464296321279.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321279.ts
-#EXTINF:1 tvg-id="antena3.es" tvg-name="ANTENA 3 FHD" tvg-logo="http://astrill.today:80/images/okrogMi_v...,ANTENA 3 FHD
-http://498943464296321105.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321105.ts
-#EXTINF:1 tvg-id="cuatro.es" tvg-name="CUATRO FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79...,CUATRO FHD
-http://498943464296321196.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321196.ts
-#EXTINF:1 tvg-id="telecinco.es" tvg-name="TELECINCO FHD" tvg-logo="http://astrill.today:80/images/oOylS2...,TELECINCO FHD
-http://498943464296321429.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321429.ts
-#EXTINF:1 tvg-id="lasexta.es" tvg-name="LA SEXTA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flw...,LA SEXTA FHD
-http://498943464296321288.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321288.ts
-#EXTINF:1 tvg-id="telemadrid.es" tvg-name="TELEMADRID FHD" tvg-logo="http://fanc.tmsimg.com/assets/s9122...,TELEMADRID FHD
-http://498943464296877380.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/877380.ts
-#EXTINF:1 tvg-id="energy.es" tvg-name="ENERGY FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87042_ll_h3_...,ENERGY FHD
-http://498943464296787633.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/787633.ts
-#EXTINF:1 tvg-id="" tvg-name="FDF FHD" tvg-logo="https://miguia.tv/channels/big_85.png" group-title="ES ...,FDF FHD
-http://498943464296775862.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/775862.ts
-#EXTINF:1 tvg-id="divinity.es" tvg-name="DIVINITY FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87038_ll...,DIVINITY FHD
-http://498943464296788474.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/788474.ts
-#EXTINF:1 tvg-id="dkissalt.es" tvg-name="DKISS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s99862_ll_h3...,DKISS FHD
-http://498943464296786711.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/786711.ts
-#EXTINF:1 tvg-id="antena3.es" tvg-name="TEN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s100496_ll_h3_a...,TEN FHD
-http://498943464296787635.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/787635.ts
-#EXTINF:1 tvg-id="bemad.es" tvg-name="BE MAD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_...,BE MAD FHD
-http://498943464296542578.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/542578.ts
-#EXTINF:1 tvg-id="dmax.es" tvg-name="DMAX FHD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6...,DMAX FHD
-http://498943464296321225.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321225.ts
-#EXTINF:1 tvg-id="mega.es" tvg-name="MEGA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16527_ll_h3_ac.p...,MEGA FHD
-http://498943464296554775.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/554775.ts
-#EXTINF:1 tvg-id="nova.es" tvg-name="NOVA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchO...,NOVA FHD
-http://498943464296630822.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/630822.ts
-#EXTINF:1 tvg-id="neox.es" tvg-name="NEOX FHD" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.p...,NEOX FHD
-http://498943464296321374.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321374.ts
-#EXTINF:1 tvg-id="somos.es" tvg-name="SOMOS FHD" tvg-logo="https://miguia.tv/channels/big_193.png" group...,SOMOS FHD
-http://498943464296321412.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321412.ts
-#EXTINF:1 tvg-id="atreseries.es" tvg-name="ATRESERIES FHD" tvg-logo="https://www.movistarplus.es/recorte...,ATRESERIES FHD
-http://498943464296648164.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/648164.ts
-#EXTINF:1 tvg-id="Movistar plus+" tvg-name="M+ PLUS+ FHD" tvg-logo="https://www.movistarplus.es/recorte/...,M+ PLUS+ FHD
-http://498943464296646233.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/646233.ts
-#EXTINF:1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/r...,M+ ORIGINALES FHD
-http://498943464296321068.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321068.ts
-#EXTINF:1 tvg-id="fox.es" tvg-name="FOX FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC...,FOX FHD
-http://498943464296321251.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321251.ts
-#EXTINF:1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD FHD" tvg-logo="http://cesbos.portal.ovh/logos/hollyw...,HOLLYWOOD FHD
-http://498943464296321265.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321265.ts
-#EXTINF:1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION FHD" tvg-logo="http://cesbos.portal.ovh/logos/m...,M+ ACCION FHD
-http://498943464296321305.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321305.ts
-#EXTINF:1 tvg-id="movistardcine.es" tvg-name="M+ CINE FHD" tvg-logo="https://www.movistarplus.es/recorte...,M+ CINE FHD
-http://498943464296559513.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/559513.ts
-#EXTINF:1 tvg-id="movistarclasicos.es" tvg-name="M+ CLáSICOS FHD" tvg-logo="http://astrill.today:80/imag...,M+ CLáSICOS FHD
-http://498943464296321314.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321314.ts
-#EXTINF:1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA FHD" tvg-logo="http://vpsapache.hopto.org/ima...,M+ COMEDIA FHD
-http://498943464296321317.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321317.ts
-#EXTINF:1 tvg-id="M+ Drama" tvg-name="M+ DRAMA FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-dc...,M+ DRAMA FHD
-http://498943464296321331.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321331.ts
-#EXTINF:1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es...,M+ CINE ESPAÑOL FHD
-http://498943464296620943.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/620943.ts
-#EXTINF:1 tvg-id="" tvg-name="M+ SUSPENSE FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66...,M+ SUSPENSE FHD
-http://498943464296877087.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/877087.ts
-#EXTINF:1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://astrill.today:80/ima...,M+ ESTRENOS FHD
-http://498943464296981782.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/981782.ts
-#EXTINF:1 tvg-id="movistarseries.es" tvg-name="M+ SERIES FHD" tvg-logo="http://astrill.today:80/images/o...,M+ SERIES FHD
-http://498943464296321347.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321347.ts
-#EXTINF:1 tvg-id="amc.es" tvg-name="AMC FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA...,AMC FHD
-http://498943464296321102.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321102.ts
-#EXTINF:1 tvg-id="axn.es" tvg-name="AXN FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA...,AXN FHD
-http://498943464296321118.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321118.ts
-#EXTINF:1 tvg-id="AXN Movies" tvg-name="AXN MOVIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-...,AXN MOVIES FHD
-http://498943464296538658.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538658.ts
-#EXTINF:1 tvg-id="axnwhite.es" tvg-name="AXN WHITE FHD" tvg-logo="http://astrill.today:80/images/okrogMi...,AXN WHITE FHD
-http://498943464296321115.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321115.ts
-#EXTINF:1 tvg-id="fox.es" tvg-name="STAR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/5msZjZpP_...,STAR CHANNEL FHD
-http://498943464296806971.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/806971.ts
-#EXTINF:1 tvg-id="xtrm.es" tvg-name="XTRM FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91182_ll_h3_aa.p...,XTRM FHD
-http://498943464296321476.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321476.ts
-#EXTINF:1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP...,AMC BREAK FHD
-http://498943464296336283.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/336283.ts
-#EXTINF:1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="http://astrill.today:80/images/oOylS2flw...,AMC CRIME FHD
-http://498943464296825098.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/825098.ts
-#EXTINF:1 tvg-id="foxlife.es" tvg-name="FOX LIFE FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZ...,FOX LIFE FHD
-http://498943464296336315.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/336315.ts
-#EXTINF:1 tvg-id="calle13.es" tvg-name="CALLE 13 FHD" tvg-logo="http://cesbos.portal.ovh/logos/calle13-4...,CALLE 13 FHD
-http://498943464296321138.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321138.ts
-#EXTINF:1 tvg-id="syfy.es" tvg-name="SYFY FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchO...,SYFY FHD
-http://498943464296321422.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321422.ts
-#EXTINF:1 tvg-id="dark.es" tvg-name="DARK FHD" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.p...,DARK FHD
-http://498943464296541471.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/541471.ts
-#EXTINF:1 tvg-id="BOM Cine" tvg-name="BOM CINE FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylC...,BOM CINE FHD
-http://498943464296882742.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/882742.ts
-#EXTINF:1 tvg-id="aande.es" tvg-name="A&E FHD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.p...,A&E FHD
-http://498943464296904310.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/904310.ts
-#EXTINF:1 tvg-id="Paramount Network.es" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="http://fanc.tmsimg.co...,PARAMOUNT NETWORK FHD
-http://498943464296874899.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/874899.ts
-#EXTINF:1 tvg-id="tcm.es" tvg-name="TCM FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA...,TCM FHD
-http://498943464296321425.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321425.ts
-#EXTINF:1 tvg-id="tnt.es" tvg-name="TNT FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91180_ll_h3_aa.png...,TNT FHD
-http://498943464296321442.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321442.ts
-#EXTINF:1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://astrill.today:80/imag...,COMEDY CENTRAL FHD
-http://498943464296321183.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321183.ts
-#EXTINF:1 tvg-id="cosmo.es" tvg-name="COSMO FHD" tvg-logo="https://miguia.tv/channels/big_62.png" group-...,COSMO FHD
-http://498943464296321187.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321187.ts
-#EXTINF:1 tvg-id="Warner TV" tvg-name="WARNER TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_...,WARNER TV FHD
-http://498943464296459777.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/459777.ts
-#EXTINF:1 tvg-id="Dreamworks HD" tvg-name="DREAMWORKS FHD" tvg-logo="http://astrill.today:80/images/oOyl...,DREAMWORKS FHD
-http://498943464296909091.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/909091.ts
-#EXTINF:1 tvg-id="vamos.es" tvg-name="#VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/...,#VAMOS FHD
-http://498943464296538744.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538744.ts
-#EXTINF:1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm...,M+ LALIGA FHD
-http://498943464296165385.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/165385.ts
-#EXTINF:1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/...,M+ LALIGA FHD HEVC
-http://498943464296262413.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/262413.ts
-#EXTINF:1 tvg-id="24horas.es" tvg-name="LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/t...,LALIGA TV BAR FHD
-http://498943464296268042.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/268042.ts
-#EXTINF:1 tvg-id="daznlaliga.es" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd...,DAZN LALIGA FHD
-http://498943464296320782.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/320782.ts
-#EXTINF:1 tvg-id="daznlaliga.es" tvg-name="DAZN LALIGA FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/...,DAZN LALIGA FHD HEVC
-http://498943464296958755.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/958755.ts
-#EXTINF:1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/...,DAZN LALIGA 2 FHD
-http://498943464296320780.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/320780.ts
-#EXTINF:1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-lo...,LIGA DE CAMPEONES FHD
-http://498943464296246282.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/246282.ts
-#EXTINF:1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngs...,LIGA DE CAMPEONES FHD HEVC
-http://498943464296262412.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/262412.ts
-#EXTINF:1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat...,LIGA DE CAMPEONES 2 FHD
-http://498943464296165365.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/165365.ts
-#EXTINF:1 tvg-id="24horas.es" tvg-name="M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/asse...,M LALIGA SMARTBANK FHD
-http://498943464296320785.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/320785.ts
-#EXTINF:1 tvg-id="daznf1.es" tvg-name="DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipe...,DAZN FORMULA 1 FHD
-http://498943464296165418.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/165418.ts
-#EXTINF:1 tvg-id="dazn1.es" tvg-name="M+ DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a...,M+ DAZN 1 FHD
-http://498943464296373766.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/373766.ts
-#EXTINF:1 tvg-id="dazn2.es" tvg-name="M+ DAZN 2 FHD" tvg-logo="https://boxtvmania.files.wordpress.com/20...,M+ DAZN 2 FHD
-http://498943464296228389.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/228389.ts
-#EXTINF:1 tvg-id="dazn2.es" tvg-name="M+ DAZN 2 FHD (H265) SD" tvg-logo="https://boxtvmania.files.wordpr...,M+ DAZN 2 FHD (H265) SD
-http://498943464296228391.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/228391.ts
-#EXTINF:1 tvg-id="dazn3.es" tvg-name="M+ DAZN 3 FHD (H265) FHD" tvg-logo="https://www.lyngsat-logo.com/l...,M+ DAZN 3 FHD (H265) FHD
-http://498943464296228392.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/228392.ts
-#EXTINF:1 tvg-id="dazn3.es" tvg-name="M+ DAZN 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/d...,M+ DAZN 3 FHD
-http://498943464296228393.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/228393.ts
-#EXTINF:1 tvg-id="dazn4.es" tvg-name="M+ DAZN 4 FHD (H265) FHD" tvg-logo="https://www.lyngsat-logo.com/l...,M+ DAZN 4 FHD (H265) FHD
-http://498943464296228396.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/228396.ts
-#EXTINF:1 tvg-id="M+ Copa del Rey.es" tvg-name="COPA DEL REY FHD" tvg-logo="" group-title="ES   MOVISTAR...,COPA DEL REY FHD
-http://498943464296982970.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/982970.ts
-#EXTINF:1 tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES FHD" tvg-logo="http://www.movistarplus.es/r...,M+ DEPORTES FHD
-http://498943464296538695.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538695.ts
-#EXTINF:1 tvg-id="M+ Deportes 2" tvg-name="M+ DEPORTES 2 FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ DEPORTES 2 FHD
-http://498943464296538679.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538679.ts
-#EXTINF:1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ DEPORTES 3 FHD
-http://498943464296538682.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538682.ts
-#EXTINF:1 tvg-id="mdeportes4.es" tvg-name="M+ DEPORTES 4 FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ DEPORTES 4 FHD
-http://498943464296538685.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538685.ts
-#EXTINF:1 tvg-id="mdeportes5.es" tvg-name="M+ DEPORTES 5 FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ DEPORTES 5 FHD
-http://498943464296538688.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538688.ts
-#EXTINF:1 tvg-id="mdeportes6.es" tvg-name="M+ DEPORTES 6 FHD" tvg-logo="https://www.movistarplus.es/reco...,M+ DEPORTES 6 FHD
-http://498943464296538691.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538691.ts
-#EXTINF:1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte...,EUROSPORT 1 FHD
-http://498943464296290348.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/290348.ts
-#EXTINF:1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://www.movistarplus.es/recorte...,EUROSPORT 2 FHD
-http://498943464296290351.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/290351.ts
-#EXTINF:1 tvg-id="GOL PLAY" tvg-name="GOL PLAY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/...,GOL PLAY FHD
-http://498943464296538757.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538757.ts
-#EXTINF:1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV FHD" tvg-logo="http://vipstreamtv.ddns.net:8...,REAL MADRID TV FHD
-http://498943464296538767.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538767.ts
-#EXTINF:1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE FHD" tvg-logo="https://miguia.tv/channels/big_16...,TELEDEPORTE FHD
-http://498943464296538769.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/538769.ts
-#EXTINF:1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/imag...,M+ DOCUMENTALES FHD
-http://498943464296552954.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/552954.ts
-#EXTINF:1 tvg-id="historia.es" tvg-name="HISTORIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/historia...,HISTORIA FHD
-http://498943464296336326.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/336326.ts
-#EXTINF:1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://miguia.tv/channels/big...,NATIONAL GEOGRAPHIC FHD
-http://498943464296321371.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321371.ts
-#EXTINF:1 tvg-id="natgeowild.es" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://astrill.today:...,NATIONAL GEOGRAPHIC WILD FHD
-http://498943464296681803.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/681803.ts
-#EXTINF:1 tvg-id="" tvg-name="STAR TVE FHD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bML...,STAR TVE FHD
-http://498943464296783543.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/783543.ts
-#EXTINF:1 tvg-id="canalsurandalucia.es" tvg-name="CANAL SUR FHD" tvg-logo="http://cesbos.portal.ovh/logo...,CANAL SUR FHD
-http://498943464296883733.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/883733.ts
-#EXTINF:1 tvg-id="Andalucía TV" tvg-name="ANDALUCÍA TV FHD (DVB) FHD" tvg-logo="https://upload.wikimedia...,ANDALUCÍA TV FHD (DVB) FHD
-http://498943464296989472.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/989472.ts
-#EXTINF:1 tvg-id="toros.es" tvg-name="TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D...,TOROS FHD
-http://498943464296321445.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321445.ts
-#EXTINF:1 tvg-id="Onetoro TV" tvg-name="ONETORO TV FHD" tvg-logo="https://up6.cc/2023/08/16908979245241....,ONETORO TV FHD
-http://498943464296558671.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/558671.ts
-#EXTINF:1 tvg-id="BuenViaje" tvg-name="BUENVIAJE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NE...,BUENVIAJE FHD
-http://498943464296909177.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/909177.ts
-#EXTINF:1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" ...,DVIAJE FHD
-http://498943464296909094.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/909094.ts
-#EXTINF:1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA FHD" tvg-logo="http://astrill.today:80/images/o...,CANAL COCINA FHD
-http://498943464296321147.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/321147.ts
-#EXTINF:1 tvg-id="" tvg-name="TAQUILLA 1 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",TAQUILLA 1 FHD
-http://498943464296279375.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/279375.ts
-#EXTINF:1 tvg-id="" tvg-name="TAQUILLA 4 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",TAQUILLA 4 FHD
-http://498943464296279377.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/279377.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 6 FHD" tvg-logo="s:1:/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kN...,ALQUILER 6 FHD
-http://498943464296289390.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/289390.ts
-#EXTINF:1 tvg-id="" tvg-name="TAQUILLA 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-...,TAQUILLA 2 FHD
-http://498943464296293864.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/293864.ts
-#EXTINF:1 tvg-id="" tvg-name="TAQUILLA 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-...,TAQUILLA 3 FHD
-http://498943464296293865.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/293865.ts
-#EXTINF:1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/...,ALQUILER 1 FHD
-http://498943464296267808.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267808.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,ALQUILER 2 FHD
-http://498943464296267809.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267809.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,ALQUILER 3 FHD
-http://498943464296267810.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267810.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,ALQUILER 4 FHD
-http://498943464296267811.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267811.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/...,ALQUILER 5 FHD
-http://498943464296267812.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267812.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e5328...,ALQUILER 8 FHD
-http://498943464296277789.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/277789.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 9 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93b2ba8f...,ALQUILER 9 FHD
-http://498943464296267848.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267848.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bebc225...,ALQUILER 10 FHD
-http://498943464296267837.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/267837.ts
-#EXTINF:1 tvg-id="" tvg-name="ALQUILER 12 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ALQUILER 12 FHD
-http://498943464296277782.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/277782.ts
-#EXTINF:1 tvg-id="Movistar Plus+ 2" tvg-name="M+ PLUS+ 2 FHD" tvg-logo="https://estatico.emisiondof6.com...,M+ PLUS+ 2 FHD
-http://498943464296653199.ofdgh12.xyz:80/play/te12468/WGpjQ993dtyd/653199.ts
+#EXTINF:1,LA 1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/387
+#EXTINF:1,LA 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/392
+#EXTINF:1,ANTENA 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/395
+#EXTINF:1,CUATRO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/398
+#EXTINF:1,TELECINCO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/401
+#EXTINF:1,LA SEXTA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/404
+#EXTINF:1,TELEMADRID ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/450
+#EXTINF:1,CANAL SUR 1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/425
+#EXTINF:1,DIVINITY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/575
+#EXTINF:1,ENERGY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/572
+#EXTINF:1,BEMAD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/563
+#EXTINF:1,MEGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/581
+#EXTINF:1,NOVA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/569
+#EXTINF:1,NEOX ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/566
+#EXTINF:1,A3SERIES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/558
+#EXTINF:1,TEN ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/579
+#EXTINF:1,FDF ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/577
+#EXTINF:1,DKISS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/560
+#EXTINF:1,DMAX ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1416
+#EXTINF:1,M+ PLUS+ ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/411
+#EXTINF:-1,M+ Plus+ ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1527
+#EXTINF:-1,M+ PLUS+ ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1448
+#EXTINF:-1,M+ ORIGINALES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/998
+#EXTINF:1,M+ ESTRENOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/980
+#EXTINF:1,M+ ACCION ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/983
+#EXTINF:-1,M+ COMEDIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/986
+#EXTINF:1,M+ DRAMA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/989
+#EXTINF:1,M+ DOCUMENTALES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/992
+#EXTINF:1,M+ INDIE ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/995
+#EXTINF:1,M+ CLASICOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1002
+#EXTINF:1,M+ CINE ESPAÑOL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1004
+#EXTINF:1,M+ OSCARS  ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1006
+#EXTINF:1,AXN MOVIES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1048
+#EXTINF:1,AXN ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1051
+#EXTINF:1,AMC ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1036
+#EXTINF:1,AMC BREAK ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1039
+#EXTINF:1,AMC CRIME ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1042
+#EXTINF:1,AMC SELEKT ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/592
+#EXTINF:1,STAR CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1014
+#EXTINF:1,HOLLYWOOD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1017
+#EXTINF:1,DREAMWORKS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1020
+#EXTINF:1,SKY SHOWTIME|1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1022
+#EXTINF:1,DARK ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1028
+#EXTINF:1,COSMO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1031
+#EXTINF:1,SYFY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1034
+#EXTINF:1,XTRM ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1053
+#EXTINF:1,CALLE 13 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1056
+#EXTINF:1,WARNER TV ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1059
+#EXTINF:1,COMEDY CENTRAL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1062
+#EXTINF:1,PARAMOUNT CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1064
+#EXTINF:-1,M+ VAMOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1445
+#EXTINF:-1,M+ VAMOS ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1446
+#EXTINF:-1,M+ VAMOS ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1523
+#EXTINF:-1,M+ LALIGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1072
+#EXTINF:-1,M+ LALIGA TV ᶠʰᵈ (ORANGE)
+http://masvision.xyz:80/Hermanoadri/18marzo/1073
+#EXTINF:-1,OrangeTV | M+ LALIGATV FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1082
+#EXTINF:-1,M+ LALIGA TV ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1522
+#EXTINF:1,DAZN LIGA FHD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1241
+#EXTINF:1,DAZN LALIGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1100
+#EXTINF:1,DAZN LALIGA ᶠʰᵈ   (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1102
+#EXTINF:1,DAZN LALIGA ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1103
+#EXTINF:1,DAZN LALIGA 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1106
+#EXTINF:1,LALIGA BAR ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1090
+#EXTINF:1,LALIGA BAR FHD [50FPS]
+http://masvision.xyz:80/Hermanoadri/18marzo/1091
+#EXTINF:-1,OrangeTV | M+ LALIGATV 2 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1085
+#EXTINF:-1,M+ LIGA DE CAMPEONES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1127
+#EXTINF:-1,M+ LIGA DE CAMPEONES ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1128
+#EXTINF:-1,M+ Liga de Campeones UHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1129
+#EXTINF:-1,M+ Liga de Campeones 2 UHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1130
+#EXTINF:-1,M+ LCAMPEONES ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1526
+#EXTINF:-1,M+ LCAMPEONES 2 ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1525
+#EXTINF:-1,M+ LIGA DE CAMPEONES 2 ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1135
+#EXTINF:-1,OrangeTV | M+ Liga de Campeones FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1141
+#EXTINF:-1,OrangeTV | M+ Liga de Campeones 2 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1144
+#EXTINF:1,DAZN MOVISTAR ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1225
+#EXTINF:1,DAZN MOVISTAR 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1228
+#EXTINF:1,DAZN MOVISTAR 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1230
+#EXTINF:1,DAZN MOVISTAR 4 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1232
+#EXTINF:1,DAZN F1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1236
+#EXTINF:1,DAZN F1 ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1233
+#EXTINF:1,DAZN 1 FHD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1237
+#EXTINF:-1,M+ DEPORTES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1431
+#EXTINF:-1,M+ DEPORTES ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1432
+#EXTINF:-1,M+ DEPORTES ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1524
+#EXTINF:-1,M+ DEPORTES 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1434
+#EXTINF:-1,M+ DEPORTES 2 ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1435
+#EXTINF:1,ONETORO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/947
+#EXTINF:1,HISTORIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1400
+#EXTINF:1,NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1403
+#EXTINF:1,NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1406
+#EXTINF:1,DISCOVERY CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1409
+#EXTINF:1,ODISEA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1412
+#EXTINF:1,CANAL COCINA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/973
+#EXTINF:1,CANAL COCINA 4K
+http://masvision.xyz:80/Hermanoadri/18marzo/974
+#EXTINF:1,LA 1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/387
+#EXTINF:1,LA 1 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/386
+#EXTINF:1,LA 1 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/385
+#EXTINF:1,LA 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/392
+#EXTINF:1,ANTENA 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/395
+#EXTINF:1,ANTENA 3 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/394
+#EXTINF:1,ANTENA 3 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/393
+#EXTINF:1,CUATRO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/398
+#EXTINF:1,CUATRO ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/397
+#EXTINF:1,TELECINCO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/401
+#EXTINF:1,TELECINCO ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/400
+#EXTINF:1,LA SEXTA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/404
+#EXTINF:1,LA SEXTA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/403
+#EXTINF:1,EL TORO T.V ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/801
+#EXTINF:1,DKISS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/560
+#EXTINF:1,DKISS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/559
+#EXTINF:1,M+ PLUS+ ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/411
+#EXTINF:1,24H ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/459
+#EXTINF:1,24H ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/458
+#EXTINF:1,Canal 24H Catalunya
+http://masvision.xyz:80/Hermanoadri/18marzo/460
+#EXTINF:1,ENFAMILIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/588
+#EXTINF:1,ENFAMILIA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/587
+#EXTINF:1,MEGA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/582
+#EXTINF:1,MEGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/581
+#EXTINF:1,FDF ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/577
+#EXTINF:1,FDF ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/576
+#EXTINF:1,DIVINITY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/575
+#EXTINF:1,DIVINITY ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/574
+#EXTINF:1,ENERGY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/572
+#EXTINF:1,ENERGY ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/571
+#EXTINF:1,NOVA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/569
+#EXTINF:1,NOVA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/568
+#EXTINF:1,NEOX ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/566
+#EXTINF:1,NEOX ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/565
+#EXTINF:1,A3SERIES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/558
+#EXTINF:1,A3SERIES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/557
+#EXTINF:1,BEMAD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/563
+#EXTINF:1,BEMAD ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/562
+#EXTINF:1,TEN ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/579
+#EXTINF:1,TEN ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/578
+#EXTINF:1,ONDA CADIZ ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/435
+#EXTINF:1,Á Punt ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/442
+#EXTINF:1,CMM ᶠʰᵈ  (C. LA MANCHA)
+http://masvision.xyz:80/Hermanoadri/18marzo/428
+#EXTINF:1,TPA ʰᵈ (ASTURIES)
+http://masvision.xyz:80/Hermanoadri/18marzo/423
+#EXTINF:1,TV CANARIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/430
+#EXTINF:1,TV3 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/422
+#EXTINF:1,CANAL MALAGA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/448
+#EXTINF:1,PTV SEVILLA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/432
+#EXTINF:1,101 CANAL MALAGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/449
+#EXTINF:1,CANAL EXTREMADURA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/427
+#EXTINF:1,ETB 2
+http://masvision.xyz:80/Hermanoadri/18marzo/418
+#EXTINF:1,ETB 1
+http://masvision.xyz:80/Hermanoadri/18marzo/417
+#EXTINF:1,TELEMADRID ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/450
+#EXTINF:1,CANAL SUR 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/426
+#EXTINF:1,CANAL SUR 1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/425
+#EXTINF:1,CANAL SUR 1 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/424
+#EXTINF:1,ANDALUCÍA T.V ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/830
+#EXTINF:1,ES | TV Galicia HD
+http://masvision.xyz:80/Hermanoadri/18marzo/865
+#EXTINF:1,ESCAPE TV
+http://masvision.xyz:80/Hermanoadri/18marzo/942
+#EXTINF:1,ESCAPE TV ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/943
+#EXTINF:1,ONETORO sd
+http://masvision.xyz:80/Hermanoadri/18marzo/945
+#EXTINF:1,ONETORO ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/946
+#EXTINF:1,ONETORO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/947
+#EXTINF:1,TOROLE ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/948
+#EXTINF:1,TOROLE ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/949
+#EXTINF:1,IBERALIA 100% PESCA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/958
+#EXTINF:1,IBERALIA 100% PESCA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/959
+#EXTINF:1,IBERALIA 100% PESCA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/960
+#EXTINF:1,IBERALIA 100% CAZA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/961
+#EXTINF:1,IBERALIA 100% CAZA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/962
+#EXTINF:1,IBERALIA TV ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/963
+#EXTINF:1,IBERALIA TV ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/964
+#EXTINF:1,IBERALIA TV ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/965
+#EXTINF:1,CAZA Y PESCA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/966
+#EXTINF:1,CAZA Y PESCA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/967
+#EXTINF:1,CAZA Y PESCA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/968
+#EXTINF:1,CAZAVISION SD
+http://masvision.xyz:80/Hermanoadri/18marzo/969
+#EXTINF:1,CAZAVISION ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/970
+#EXTINF:1,CANAL COCINA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/971
+#EXTINF:1,CANAL COCINA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/972
+#EXTINF:1,CANAL COCINA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/973
+#EXTINF:1,CANAL COCINA 4K
+http://masvision.xyz:80/Hermanoadri/18marzo/974
+#EXTINF:1,M+ SERIES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/976
+#EXTINF:1,M+  SERIES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/977
+#EXTINF:1,M+ ESTRENOS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/978
+#EXTINF:1,M+ ESTRENOS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/979
+#EXTINF:1,M+ ESTRENOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/980
+#EXTINF:1,M+ ACCION ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/981
+#EXTINF:1,M+ ACCION  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/982
+#EXTINF:1,M+ ACCION ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/983
+#EXTINF:1,M+ COMEDIA  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/985
+#EXTINF:1,M+ COMEDIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/986
+#EXTINF:1,M+ DRAMA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/988
+#EXTINF:1,M+ DRAMA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/989
+#EXTINF:1,M+ DOCUMENTALES ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/990
+#EXTINF:1,M+ DOCUMENTALES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/991
+#EXTINF:1,M+ DOCUMENTALES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/992
+#EXTINF:1,M+ INDIE ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/994
+#EXTINF:1,M+ INDIE ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/995
+#EXTINF:1,M+ ORIGINALES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/997
+#EXTINF:1,M+ ORIGINALES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/998
+#EXTINF:1,M+ CLASICOS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1001
+#EXTINF:1,M+ CLASICOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1002
+#EXTINF:1,M+ CINE ESPAÑOL ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1003
+#EXTINF:1,M+ CINE ESPAÑOL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1004
+#EXTINF:1,M+ OSCARS SD
+http://masvision.xyz:80/Hermanoadri/18marzo/3334
+#EXTINF:1,M+ OSCARS HD
+http://masvision.xyz:80/Hermanoadri/18marzo/3333
+#EXTINF:1,M+ OSCARS  ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1006
+#EXTINF:1,Max Avances ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1007
+#EXTINF:1,Max Avances ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1008
+#EXTINF:1,TCM ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1010
+#EXTINF:1,TCM ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1011
+#EXTINF:1,STAR CHANNEL ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1012
+#EXTINF:1,STAR CHANNEL ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1013
+#EXTINF:1,STAR CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1014
+#EXTINF:1,HOLLYWOOD ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1015
+#EXTINF:1,HOLLYWOOD ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1016
+#EXTINF:1,HOLLYWOOD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1017
+#EXTINF:1,DREAMWORKS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1018
+#EXTINF:1,DREAMWORKS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1019
+#EXTINF:1,DREAMWORKS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1020
+#EXTINF:1,SKY SHOWTIME|1 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1021
+#EXTINF:1,SKY SHOWTIME|1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1022
+#EXTINF:1,BOM CINE
+http://masvision.xyz:80/Hermanoadri/18marzo/1023
+#EXTINF:1,BOM CINE ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1024
+#EXTINF:1,BOM CINE ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1025
+#EXTINF:1,DARK ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1026
+#EXTINF:1,DARK ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1027
+#EXTINF:1,DARK ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1028
+#EXTINF:1,COSMO ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1029
+#EXTINF:1,COSMO ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1030
+#EXTINF:1,COSMO ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1031
+#EXTINF:1,SYFY ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1032
+#EXTINF:1,SYFY ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1033
+#EXTINF:1,SYFY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1034
+#EXTINF:1,AMC hd
+http://masvision.xyz:80/Hermanoadri/18marzo/1035
+#EXTINF:1,AMC ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1036
+#EXTINF:1,AMC BREAK ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1037
+#EXTINF:1,AMC BREAK ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1038
+#EXTINF:1,AMC BREAK ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1039
+#EXTINF:1,AMC CRIME ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1040
+#EXTINF:1,AMC CRIME ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1041
+#EXTINF:1,AMC CRIME ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1042
+#EXTINF:1,ES | AMC SELEKT HD
+http://masvision.xyz:80/Hermanoadri/18marzo/861
+#EXTINF:1,AMC SELEKT ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/592
+#EXTINF:1,SOMOS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1043
+#EXTINF:1,SOMOS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1044
+#EXTINF:1,SOMOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1045
+#EXTINF:1,AXN MOVIE ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1046
+#EXTINF:1,AXN MOVIE ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1047
+#EXTINF:1,AXN MOVIES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1048
+#EXTINF:1,AXN ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1049
+#EXTINF:1,AXN ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1050
+#EXTINF:1,AXN ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1051
+#EXTINF:1,XTRM ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1052
+#EXTINF:1,XTRM ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1053
+#EXTINF:1,CALLE 13 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1054
+#EXTINF:1,CALLE 13 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1055
+#EXTINF:1,CALLE 13 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1056
+#EXTINF:1,WARNER TV ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1057
+#EXTINF:1,WARNER TV ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1058
+#EXTINF:1,WARNER TV ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1059
+#EXTINF:1,COMEDY CENTRAL ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1060
+#EXTINF:1,COMEDY CENTRAL ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1061
+#EXTINF:1,COMEDY CENTRAL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1062
+#EXTINF:1,PARAMOUNT CHANNEL ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1063
+#EXTINF:1,PARAMOUNT CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1064
+#EXTINF:1,HISTORIA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1398
+#EXTINF:1,HISTORIA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1399
+#EXTINF:1,HISTORIA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1400
+#EXTINF:1,NATIONAL GEOGRAPHIC ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1402
+#EXTINF:1,NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1403
+#EXTINF:1,NATIONAL GEOGRAPHIC WILD ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1404
+#EXTINF:1,NATIONAL GEOGRAPHIC WILD ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1405
+#EXTINF:1,NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1406
+#EXTINF:1,DISCOVERY CHANNEL ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1407
+#EXTINF:1,DISCOVERY CHANNEL ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1408
+#EXTINF:1,DISCOVERY CHANNEL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1409
+#EXTINF:1,ODISEA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1410
+#EXTINF:1,ODISEA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1411
+#EXTINF:1,ODISEA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1412
+#EXTINF:1,ODISEA 4K
+http://masvision.xyz:80/Hermanoadri/18marzo/1413
+#EXTINF:1,DMAX ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1414
+#EXTINF:1,DMAX ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1415
+#EXTINF:1,DMAX ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1416
+#EXTINF:1,BUEN VIAJE! ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1417
+#EXTINF:1,BUEN VIAJE! ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1418
+#EXTINF:1,BUEN VIAJE! ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1419
+#EXTINF:1,MTV HITS
+http://masvision.xyz:80/Hermanoadri/18marzo/1494
+#EXTINF:1,MTV 00 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1495
+#EXTINF:1,MTV SPAIN ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1496
+#EXTINF:1,NOW ROCK ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1497
+#EXTINF:1,NOW 80s ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1498
+#EXTINF:1,MTV ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1499
+#EXTINF:1,UBEAT ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1500
+#EXTINF:1,CLASSICA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1501
+#EXTINF:1,M+ MEZZO LIVE ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1502
+#EXTINF:1,M+ MEZZO LIVE FULL ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1503
+#EXTINF:1,SPOTIFY Fiesta
+http://masvision.xyz:80/Hermanoadri/18marzo/1634
+#EXTINF:1,SPOTIFY Flamenco
+http://masvision.xyz:80/Hermanoadri/18marzo/1635
+#EXTINF:1,SPOTIFY Hiphop
+http://masvision.xyz:80/Hermanoadri/18marzo/1636
+#EXTINF:1,SPOTIFY House
+http://masvision.xyz:80/Hermanoadri/18marzo/1637
+#EXTINF:1,SPOTIFY Jazz
+http://masvision.xyz:80/Hermanoadri/18marzo/1638
+#EXTINF:1,SPOTIFY Latino
+http://masvision.xyz:80/Hermanoadri/18marzo/1639
+#EXTINF:1,SPOTIFY Lomassonado
+http://masvision.xyz:80/Hermanoadri/18marzo/1640
+#EXTINF:1,SPOTIFY MegaBASS
+http://masvision.xyz:80/Hermanoadri/18marzo/1641
+#EXTINF:1,SPOTIFY Metal
+http://masvision.xyz:80/Hermanoadri/18marzo/1642
+#EXTINF:1,SPOTIFY Musica8K
+http://masvision.xyz:80/Hermanoadri/18marzo/1643
+#EXTINF:1,SPOTIFY Nostalgia
+http://masvision.xyz:80/Hermanoadri/18marzo/1644
+#EXTINF:1,SPOTIFY Novaquitarra
+http://masvision.xyz:80/Hermanoadri/18marzo/1645
+#EXTINF:1,SPOTIFY Reggaeton
+http://masvision.xyz:80/Hermanoadri/18marzo/1646
+#EXTINF:1,SPOTIFY Relax
+http://masvision.xyz:80/Hermanoadri/18marzo/1647
+#EXTINF:1,SPOTIFY Resturantes
+http://masvision.xyz:80/Hermanoadri/18marzo/1648
+#EXTINF:1,SPOTIFY Rock
+http://masvision.xyz:80/Hermanoadri/18marzo/1649
+#EXTINF:1,SPOTIFY Romance
+http://masvision.xyz:80/Hermanoadri/18marzo/1650
+#EXTINF:1,SPOTIFY Tropicaldeephouse
+http://masvision.xyz:80/Hermanoadri/18marzo/1651
+#EXTINF:1,SPOTIFY Verano
+http://masvision.xyz:80/Hermanoadri/18marzo/1652
+#EXTINF:1,Abdomen
+http://masvision.xyz:80/Hermanoadri/18marzo/1694
+#EXTINF:1,Reto abdomen 7días
+http://masvision.xyz:80/Hermanoadri/18marzo/1695
+#EXTINF:1,M+ LALIGA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1070
+#EXTINF:1,M+ LALIGA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1071
+#EXTINF:1,M+ LALIGA ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1072
+#EXTINF:1,M+ LALIGA TV ᶠʰᵈ (ORANGE)
+http://masvision.xyz:80/Hermanoadri/18marzo/1073
+#EXTINF:1,M+ LALIGA 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1074
+#EXTINF:1,M+ LALIGA 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1075
+#EXTINF:1,M+ LALIGA 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1076
+#EXTINF:1,M+ LALIGA 3 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1077
+#EXTINF:1,M+ LALIGA  3 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1078
+#EXTINF:1,M+ LALIGA 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1079
+#EXTINF:1,OrangeTV | M+ LALIGATV SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1080
+#EXTINF:1,OrangeTV | M+ LALIGATV HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1081
+#EXTINF:1,OrangeTV | M+ LALIGATV FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1082
+#EXTINF:1,OrangeTV | M+ LALIGATV 2 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1083
+#EXTINF:1,OrangeTV | M+ LALIGATV 2 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1084
+#EXTINF:1,OrangeTV | M+ LALIGATV 2 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1085
+#EXTINF:1,OrangeTV | M+ LALIGA 3  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1086
+#EXTINF:1,OrangeTV | M+ LALIGA 3 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1087
+#EXTINF:1,LALIGA BAR ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1088
+#EXTINF:1,LALIGA BAR ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1089
+#EXTINF:1,LALIGA BAR 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1092
+#EXTINF:1,LALIGA BAR 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1093
+#EXTINF:1,DAZN 1 BAR ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1094
+#EXTINF:1,DAZN 1 BAR ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1095
+#EXTINF:1,DAZN 2 BAR ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1096
+#EXTINF:1,DAZN 2 BAR ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1097
+#EXTINF:1,DAZN LALIGA ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1098
+#EXTINF:1,DAZN LALIGA ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1099
+#EXTINF:1,DAZN LALIGA 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1104
+#EXTINF:1,DAZN LALIGA 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1105
+#EXTINF:1,DAZN LALIGA 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1107
+#EXTINF:1,LALIGA HYPERMOTION ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1108
+#EXTINF:1,LALIGA  HYPERMOTION ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1109
+#EXTINF:1,LALIGA TV HYPERMOTION ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1110
+#EXTINF:1,LALIGA  HYPERMOTION ᶠʰᵈ  (SAT.)
+http://masvision.xyz:80/Hermanoadri/18marzo/1111
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1112
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1113
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1114
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION 2 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1115
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION 2 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1116
+#EXTINF:1,OrangeTV | LALIGATV HYPERMOTION 2 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1117
+#EXTINF:1,LALIGA  HYPERMOTION 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1118
+#EXTINF:1,LALIGA HYPERMOTION 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1119
+#EXTINF:1,LALIGA  HYPERMOTION 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1120
+#EXTINF:1,LALIGA HYPERMOTION 2 ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1122
+#EXTINF:1,LALIGA  HYPERMOTION 3 ᶠʰᵈ (SAT.)
+http://masvision.xyz:80/Hermanoadri/18marzo/1123
+#EXTINF:1,LALIGA  HYPERMOTION 3  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1124
+#EXTINF:1,M+ LIGA DE CAMPEONES ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1125
+#EXTINF:1,M+ LIGA DE CAMPEONES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1126
+#EXTINF:1,M+ LIGA DE CAMPEONES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1127
+#EXTINF:1,M+ LIGA DE CAMPEONES ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1128
+#EXTINF:1,M+ Liga de Campeones UHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1129
+#EXTINF:1,M+ Liga de Campeones 2 UHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1130
+#EXTINF:1,M+ LIGA DE CAMPEONES 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1131
+#EXTINF:1,M+ LIGA DE CAMPEONES 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1132
+#EXTINF:1,M+ LIGA DE CAMPEONES 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1133
+#EXTINF:1,M+ LIGA DE CAMPEONES 2 BAR ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1134
+#EXTINF:1,M+ LIGA DE CAMPEONES 2 ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1135
+#EXTINF:1,M+ LIGA DE CAMPEONES 3 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1136
+#EXTINF:1,M+ LIGA DE CAMPEONES 3 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1137
+#EXTINF:1,M+ LIGA DE CAMPEONES 3 ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1138
+#EXTINF:1,OrangeTV | M+ Liga de Campeones SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1139
+#EXTINF:1,OrangeTV | M+ Liga de Campeones HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1140
+#EXTINF:1,OrangeTV | M+ Liga de Campeones FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1141
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 2 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1142
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 2 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1143
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 2 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1144
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 3 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1145
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 3 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1146
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 3 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1147
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 4 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1148
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 4 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1149
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 4 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1150
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 5 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1151
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 5 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1152
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 5 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1153
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 6 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1154
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 6 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1155
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 6 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1156
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 7 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1157
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 7 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1158
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 7 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1159
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 8 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1160
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 8 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1161
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 8 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1162
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 9 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1163
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 9 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1164
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 9 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1165
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 10 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1166
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 10 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1167
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 10 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1168
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 11 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1169
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 11 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1170
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 11 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1171
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 12 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1172
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 12 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1173
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 12 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1174
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 13 FHD
+http://masvision.xyz:80/Hermanoadri/18marzo/1175
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 13 HD
+http://masvision.xyz:80/Hermanoadri/18marzo/1176
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 13 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1177
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 14 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1178
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 15 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1179
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 16 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1180
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 17 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1181
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 18 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1182
+#EXTINF:1,OrangeTV | M+ Liga de Campeones 19 SD
+http://masvision.xyz:80/Hermanoadri/18marzo/1183
+#EXTINF:1,2ª RFEF TV (EVENTO 1)
+http://masvision.xyz:80/Hermanoadri/18marzo/1208
+#EXTINF:1,2ª RFEF TV (EVENTO 2)
+http://masvision.xyz:80/Hermanoadri/18marzo/1209
+#EXTINF:1,2º RFEF TV (EVENTO 3)
+http://masvision.xyz:80/Hermanoadri/18marzo/1210
+#EXTINF:1,2º REFEF TV (EVENTO 4)
+http://masvision.xyz:80/Hermanoadri/18marzo/1211
+#EXTINF:1,2º RFEF TV (EVENTO 5)
+http://masvision.xyz:80/Hermanoadri/18marzo/1212
+#EXTINF:1,2º RFEF TV (EVENTO 6).
+http://masvision.xyz:80/Hermanoadri/18marzo/1213
+#EXTINF:1,2º RFEF TV (EVENTO 7)
+http://masvision.xyz:80/Hermanoadri/18marzo/1214
+#EXTINF:1,2º RFEF TV (EVENTO 8)
+http://masvision.xyz:80/Hermanoadri/18marzo/1215
+#EXTINF:1,2º RFEF TV (EVENTO 9)
+http://masvision.xyz:80/Hermanoadri/18marzo/1216
+#EXTINF:1,2º RFEF TV (EVENTO 10)
+http://masvision.xyz:80/Hermanoadri/18marzo/1217
+#EXTINF:1,2º RFEF TV (EVENTO 11)
+http://masvision.xyz:80/Hermanoadri/18marzo/1218
+#EXTINF:1,2º RFEF TV (EVENTO 12)
+http://masvision.xyz:80/Hermanoadri/18marzo/1219
+#EXTINF:1,2º RFEF TV (EVENTO 13)
+http://masvision.xyz:80/Hermanoadri/18marzo/1220
+#EXTINF:1,2º RFEF TV (EVENTO 14)
+http://masvision.xyz:80/Hermanoadri/18marzo/1221
+#EXTINF:1,2º RFEF TV (EVENTO 15)
+http://masvision.xyz:80/Hermanoadri/18marzo/1222
+#EXTINF:1,DAZN MOVISTAR  ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1223
+#EXTINF:1,DAZN MOVISTAR ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1224
+#EXTINF:1,DAZN MOVISTAR 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1226
+#EXTINF:1,DAZN MOVISTAR 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1227
+#EXTINF:1,DAZN MOVISTAR 3 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1229
+#EXTINF:1,DAZN MOVISTAR 4 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1231
+#EXTINF:1,DAZN F1 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1234
+#EXTINF:1,DAZN F1 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1235
+#EXTINF:1,DAZN 1 HD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1238
+#EXTINF:1,DAZN 2 FHD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1239
+#EXTINF:1,DAZN 2 HD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1240
+#EXTINF:1,DAZN LIGA HD 50 FPS
+http://masvision.xyz:80/Hermanoadri/18marzo/1242
+#EXTINF:1,EUROSPORT 1 FHD [50FPS]
+http://masvision.xyz:80/Hermanoadri/18marzo/1243
+#EXTINF:1,EUROSPORT 1 HD [50 FPS]
+http://masvision.xyz:80/Hermanoadri/18marzo/1244
+#EXTINF:1,EUROSPORT 2 FHD [50 FPS]
+http://masvision.xyz:80/Hermanoadri/18marzo/1245
+#EXTINF:1,EUROSPORT 2 HD [50 FPS]
+http://masvision.xyz:80/Hermanoadri/18marzo/1246
+#EXTINF:1,DAZN F1 ᶠʰᵈ (50 FPS)
+http://masvision.xyz:80/Hermanoadri/18marzo/1247
+#EXTINF:1,F1TV - 1 - Red Bull - Max Verstappen
+http://masvision.xyz:80/Hermanoadri/18marzo/1248
+#EXTINF:1,F1TV - 2 - Red Bull - Checo Pérez
+http://masvision.xyz:80/Hermanoadri/18marzo/1249
+#EXTINF:1,F1TV - 3 - Ferrari - Charles Leclerc
+http://masvision.xyz:80/Hermanoadri/18marzo/1250
+#EXTINF:1,F1TV - 4 - Ferrari - Carlos Sainz
+http://masvision.xyz:80/Hermanoadri/18marzo/1251
+#EXTINF:1,F1TV - 5 - Mercedes - Lewis Hamilton
+http://masvision.xyz:80/Hermanoadri/18marzo/1252
+#EXTINF:1,F1TV - 6 - Mercedes - George Rusell
+http://masvision.xyz:80/Hermanoadri/18marzo/1253
+#EXTINF:1,F1TV - 7 - Aston Martin - Fernando Alonso
+http://masvision.xyz:80/Hermanoadri/18marzo/1254
+#EXTINF:1,F1TV - 8 - Aston Martin - Lance Stroll
+http://masvision.xyz:80/Hermanoadri/18marzo/1255
+#EXTINF:1,F1TV - 9 - McLaren - Lando Norris
+http://masvision.xyz:80/Hermanoadri/18marzo/1256
+#EXTINF:1,F1TV - 10 - McLaren - Oscar Piastri
+http://masvision.xyz:80/Hermanoadri/18marzo/1257
+#EXTINF:1,F1TV - 11 - Alpine - Esteban Ocon
+http://masvision.xyz:80/Hermanoadri/18marzo/1258
+#EXTINF:1,F1TV - 12 - Alpine - Pierre Gasly
+http://masvision.xyz:80/Hermanoadri/18marzo/1259
+#EXTINF:1,F1TV - 13 - Visa CashApp RB - Daniel Ricciardo
+http://masvision.xyz:80/Hermanoadri/18marzo/1260
+#EXTINF:1,F1TV - 14 - Visa CashApp RB - Yuki Tsunoda
+http://masvision.xyz:80/Hermanoadri/18marzo/1261
+#EXTINF:1,F1TV - 15 - Haas - Kevin Magnussen
+http://masvision.xyz:80/Hermanoadri/18marzo/1262
+#EXTINF:1,F1TV - 16 - Haas - Nico Hulkenberg
+http://masvision.xyz:80/Hermanoadri/18marzo/1263
+#EXTINF:1,F1TV - 17 - Williams - Alex Albon
+http://masvision.xyz:80/Hermanoadri/18marzo/1264
+#EXTINF:1,F1TV - 18 - Williams - Logan Sargeant
+http://masvision.xyz:80/Hermanoadri/18marzo/1265
+#EXTINF:1,F1TV - 19 - Stake F1 Kick Sauber - Valtteri Bottas
+http://masvision.xyz:80/Hermanoadri/18marzo/1266
+#EXTINF:1,F1TV - 20 - Stake F1 Kick Sauber - Guanyu Zhou
+http://masvision.xyz:80/Hermanoadri/18marzo/1267
+#EXTINF:1,LaLiga+ | Eurosport 1
+http://masvision.xyz:80/Hermanoadri/18marzo/1277
+#EXTINF:1,LaLiga+ | Eurosport 2
+http://masvision.xyz:80/Hermanoadri/18marzo/1278
+#EXTINF:1,M+ DEPORTES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1430
+#EXTINF:1,M+ DEPORTES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1431
+#EXTINF:1,M+ DEPORTES ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1432
+#EXTINF:1,M+ DEPORTES 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1433
+#EXTINF:1,M+ DEPORTES 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1434
+#EXTINF:1,M+ DEPORTES 2 ᶠʰᵈ (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1435
+#EXTINF:1,M+ DEPORTES 3 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1436
+#EXTINF:1,M+ DEPORTES 3 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1437
+#EXTINF:1,M+ DEPORTES 4 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1438
+#EXTINF:1,M+ DEPORTES 4 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1439
+#EXTINF:1,M+ DEPORTES 5 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1440
+#EXTINF:1,M+ DEPORTES 6  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1441
+#EXTINF:1,M+ Deportes 7  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1442
+#EXTINF:1,M+ VAMOS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1443
+#EXTINF:1,M+ VAMOS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1444
+#EXTINF:1,M+ VAMOS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1445
+#EXTINF:1,M+ VAMOS ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1446
+#EXTINF:1,M+ PLUS+ ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1447
+#EXTINF:1,M+ PLUS+ ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1448
+#EXTINF:1,M+ PLUS+ 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1450
+#EXTINF:1,M+ PLUS+ 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1451
+#EXTINF:1,#ELLAS ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1452
+#EXTINF:1,#ELLAS ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1453
+#EXTINF:1,#ELLAS ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1454
+#EXTINF:1,#ELLAS ᶠʰᵈ (SAT.)
+http://masvision.xyz:80/Hermanoadri/18marzo/1455
+#EXTINF:1,M+ GOLF ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1456
+#EXTINF:1,M+ GOLF ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1457
+#EXTINF:1,M+ GOLF ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1458
+#EXTINF:1,M+ GOLF 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1459
+#EXTINF:1,M+ GOLF 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1460
+#EXTINF:1,M+ GOLF 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1461
+#EXTINF:1,GOL PLAY ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1462
+#EXTINF:1,GOL PLAY ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1463
+#EXTINF:1,GOL PLAY ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1464
+#EXTINF:1,DBIKE ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1465
+#EXTINF:1,TELEDEPORTES ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1466
+#EXTINF:1,BETIS TV ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1467
+#EXTINF:1,REAL MADRID TV  ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1468
+#EXTINF:1,SEVILLA FC ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1469
+#EXTINF:1,TELEDEPORTES ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1470
+#EXTINF:1,EUROSPORT 1 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1471
+#EXTINF:1,EUROSPORT 1 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1472
+#EXTINF:1,EUROSPORT 1 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1473
+#EXTINF:1,EUROSPORT 1 ᶠʰᵈ  (SAT.)
+http://masvision.xyz:80/Hermanoadri/18marzo/1474
+#EXTINF:1,EUROSPORT 2 ˢᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1475
+#EXTINF:1,EUROSPORT 2 ʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1476
+#EXTINF:1,EUROSPORT 2 ᶠʰᵈ
+http://masvision.xyz:80/Hermanoadri/18marzo/1477
+#EXTINF:1,EUROSPORT 2 ᶠʰᵈ  (SAT)
+http://masvision.xyz:80/Hermanoadri/18marzo/1478
+#EXTINF:1,DAZN F1 ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1504
+#EXTINF:1,DAZN LALIGA 2 ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1505
+#EXTINF:1,DAZN LALIGA ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1506
+#EXTINF:1,EUROSPORT 1 ˢᵈ  (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1507
+#EXTINF:1,LALIGA TV HYPERMOTION ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1508
+#EXTINF:1,M+ LALIGA TV 2 ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1509
+#EXTINF:1,M+ LALIGA TV ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1510
+#EXTINF:1,M+ VAMOS ˢᵈ (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1511
+#EXTINF:1,M+ DEPORTES ˢᵈ  (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1512
+#EXTINF:1,M+ LCAMPEONES 2 ˢᵈ  (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1513
+#EXTINF:1,M+ LCAMPEONES ˢᵈ ( LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1514
+#EXTINF:1,M+ PLUS+ ˢᵈ  (LOW)
+http://masvision.xyz:80/Hermanoadri/18marzo/1515
+#EXTINF:1,DAZN F1 ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1516
+#EXTINF:1,DAZN LALIGA 2 ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1517
+#EXTINF:1,DAZN LALIGA ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1518
+#EXTINF:1,EUROSPORT 1 ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1519
+#EXTINF:1,LALIGA TV HYPERMOTION ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1520
+#EXTINF:1,M+ LALIGA TV 2 ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1521
+#EXTINF:1,M+ LALIGA TV ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1522
+#EXTINF:1,M+ VAMOS ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1523
+#EXTINF:1,M+ DEPORTES ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1524
+#EXTINF:1,M+ LCAMPEONES 2 ᶠʰᵈ ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1525
+#EXTINF:1,M+ LCAMPEONES ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://masvision.xyz:80/Hermanoadri/18marzo/1526
+#EXTINF:1,Moto GP Clasificacion
+http://masvision.xyz:80/Hermanoadri/18marzo/1717
+#EXTINF:1,Moto GP Carrera
+http://masvision.xyz:80/Hermanoadri/18marzo/1718
+#EXTINF:1,Moto GP Tests.
+http://masvision.xyz:80/Hermanoadri/18marzo/19898
+#EXTINF:1,Formula 1 | F3 Main Stream
+http://masvision.xyz:80/Hermanoadri/18marzo/28514
+#EXTINF:1,Formula 1 | F2 Main Stream
+http://masvision.xyz:80/Hermanoadri/18marzo/28515
+#EXTINF:1,Formula 1 | PSC Main Stream
+http://masvision.xyz:80/Hermanoadri/18marzo/28516
+#EXTINF:1,Formula 1 | HULKENBERG CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28517
+#EXTINF:1,Formula 1 | VERSTAPPEN CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28518
+#EXTINF:1,Formula 1 | TSUNODA CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28519
+#EXTINF:1,Formula 1 | STROLL CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28520
+#EXTINF:1,Formula 1 | SAINZ CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28521
+#EXTINF:1,Formula 1 | HAMILTON CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28522
+#EXTINF:1,Formula 1 | RUSSEL CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28523
+#EXTINF:1,Formula 1 | HADJAR CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28524
+#EXTINF:1,Formula 1 | PIASTRI CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28525
+#EXTINF:1,Formula 1 | LAWSON CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28526
+#EXTINF:1,Formula 1 | DOOHAN CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28527
+#EXTINF:1,Formula 1 | NORRIS CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28528
+#EXTINF:1,Formula 1 | BEARMAN CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28529
+#EXTINF:1,Formula 1 | LECLERC CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28530
+#EXTINF:1,Formula 1 | OCON CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28531
+#EXTINF:1,Formula 1 | ANTONELLI CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28532
+#EXTINF:1,Formula 1 | GASLY CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28533
+#EXTINF:1,Formula 1 | BORTTOLETO CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28534
+#EXTINF:1,Formula 1 | ALONSO CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28535
+#EXTINF:1,Formula 1 | ALBON CAM
+http://masvision.xyz:80/Hermanoadri/18marzo/28536
+#EXTINF:1,Formula 1 | PRO TRACKER
+http://masvision.xyz:80/Hermanoadri/18marzo/28537
+#EXTINF:1,Formula 1 | PRO DATA
+http://masvision.xyz:80/Hermanoadri/18marzo/28538
+#EXTINF:1,Formula 1 | PRO LIVE INT
+http://masvision.xyz:80/Hermanoadri/18marzo/28539
+#EXTINF:1,Formula 1 | PRO LIVE
+http://masvision.xyz:80/Hermanoadri/18marzo/28540
+#EXTINF:1,CARRERA F1 [REPLAY]
+http://masvision.xyz:80/Hermanoadri/18marzo/32227
+#EXTINF:1,CLASIFICACIÓN F1 [REPLAY]
+http://masvision.xyz:80/Hermanoadri/18marzo/32228
+#EXTINF:1,FORMULA TEST F1 [REPLAY]
+http://masvision.xyz:80/Hermanoadri/18marzo/32229
+#EXTINF:1,ESTRENOS NETFLIX 1
+http://masvision.xyz:80/Hermanoadri/18marzo/1594
+#EXTINF:1,ESTRENOS NETFLIX 2
+http://masvision.xyz:80/Hermanoadri/18marzo/1595
+#EXTINF:1,ESTRENOS NETFLIX 3
+http://masvision.xyz:80/Hermanoadri/18marzo/1596
+#EXTINF:1,ESTRENOS NETFLIX 4
+http://masvision.xyz:80/Hermanoadri/18marzo/1597
+#EXTINF:1,ESTRENOS NETFLIX 5
+http://masvision.xyz:80/Hermanoadri/18marzo/1598
+#EXTINF:1,ESTRENOS NETFLIX 6
+http://masvision.xyz:80/Hermanoadri/18marzo/1599
+#EXTINF:1,ESTRENOS NETFLIX 7
+http://masvision.xyz:80/Hermanoadri/18marzo/1600
+#EXTINF:1,ESTRENOS NETFLIX 8
+http://masvision.xyz:80/Hermanoadri/18marzo/1601
+#EXTINF:1,ESTRENOS NETFLIX 9
+http://masvision.xyz:80/Hermanoadri/18marzo/1602
+#EXTINF:1,ESTRENOS NETFLIX 10
+http://masvision.xyz:80/Hermanoadri/18marzo/1603
+#EXTINF:1,ESTRENOS NETFLIX 11
+http://masvision.xyz:80/Hermanoadri/18marzo/1604
+#EXTINF:1,ESTRENOS NETFLIX 12
+http://masvision.xyz:80/Hermanoadri/18marzo/1605
+#EXTINF:1,ESTRENOS NETFLIX 13
+http://masvision.xyz:80/Hermanoadri/18marzo/1606
+#EXTINF:1,ESTRENOS NETFLIX 14
+http://masvision.xyz:80/Hermanoadri/18marzo/1607
+#EXTINF:1,ESTRENOS NETFLIX 15
+http://masvision.xyz:80/Hermanoadri/18marzo/1608
+#EXTINF:1,ESTRENOS NETFLIX 16
+http://masvision.xyz:80/Hermanoadri/18marzo/1609
+#EXTINF:1,ESTRENOS NETFLIX 17
+http://masvision.xyz:80/Hermanoadri/18marzo/1610
+#EXTINF:1,ESTRENOS NETFLIX 18
+http://masvision.xyz:80/Hermanoadri/18marzo/1611
+#EXTINF:1,ESTRENOS NETFLIX 19
+http://masvision.xyz:80/Hermanoadri/18marzo/1612
+#EXTINF:1,ESTRENOS NETFLIX 20
+http://masvision.xyz:80/Hermanoadri/18marzo/1613
 
 
