@@ -123,6 +123,8 @@ http://abc2.abcnew.site:8880/D12m3876/00047488/2551
 http://abc2.abcnew.site:8880/D12m3876/00047488/2550
 #EXTINF:-1 tvg-name="ES121:M+ LALIGA BAR TV"tvg-id="la.resistencia.es"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121"group-title="ES Deportes",M+ LALIGA BAR TV
 http://abc2.abcnew.site:8880/D12m3876/00047488/29271
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Deportes",ES047:DAZN 1
+http://abc2.abcnew.site:8880/D12m3876/00047488/2557
 #EXTINF:-1 tvg-name="ES048:DAZN 2"tvg-id="iberalia.es"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png"group-title="",DAZN 2
 http://abc2.abcnew.site:8880/D12m3876/00047488/2556
 #EXTINF:-1 tvg-name="ES049:DAZN 3"tvg-id="a.e.br"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png"group-title="",DAZN 3
