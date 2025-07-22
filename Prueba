@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ES089:LA 1"tvg-id="la.1.es"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089"group-title="",LA 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1 tvg-name="ES090:LA 2"tvg-id="movistar.series.es"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png"group-title="",LA 2
 http://abc2.abcnew.site:8880/kg14m3n08281/sdfasdfw2333/29302
 #EXTINF:-1 tvg-name="ES013:ANTENA 3"tvg-id="antena.3.es"tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png"group-title="",ANTENA 3
